@@ -1,0 +1,11 @@
+6. The white solid was recrystallized in MeOH and the filtrate was 
+rotovaped, Another NMR was taken. 
+- yield = 0.06 g = 60% yield  
+- After recrystallization both SM A and B2Pin2 were still present. 
+7. It was recrystallized again in EtOH and the filtrate was rotovaped. 
+- yield = 0.05 g = 50% yield  
+- neither starting material was present. 
+- Another NMR was taken to confirm. 
+* Rotovap rxn to remove MeCN before extraction to see if yields 
+improve.  
+(extraction w/ 3 components, water, DCM, and MeCN is not good)

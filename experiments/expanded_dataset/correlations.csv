@@ -1,0 +1,17 @@
+target,metric,method,n,correlation
+cer,baseline_consistency,pearson,10,0.03536553535228757
+cer,baseline_consistency,spearman,10,0.12727272727272726
+cer,spatial_organization,pearson,10,-0.09052774085992014
+cer,spatial_organization,spearman,10,0.006060606060606061
+cer,text_fragmentation,pearson,10,0.6448611470404438
+cer,text_fragmentation,spearman,10,0.5757575757575757
+cer,combined_score,pearson,10,0.12195034724032691
+cer,combined_score,spearman,10,0.19999999999999998
+ocr_confidence,baseline_consistency,pearson,30,0.1751076427088336
+ocr_confidence,baseline_consistency,spearman,30,0.18807035025974914
+ocr_confidence,spatial_organization,pearson,30,0.06272320311297563
+ocr_confidence,spatial_organization,spearman,30,0.05628476084538376
+ocr_confidence,text_fragmentation,pearson,30,-0.26824194044741123
+ocr_confidence,text_fragmentation,spearman,30,-0.2307007786429366
+ocr_confidence,combined_score,pearson,30,0.14996796171999865
+ocr_confidence,combined_score,spearman,30,0.08164627363737487

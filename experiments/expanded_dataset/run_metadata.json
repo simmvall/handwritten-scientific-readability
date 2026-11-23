@@ -1,0 +1,24 @@
+{
+  "dataset": "expanded_dataset",
+  "pages": 30,
+  "notebooks": [
+    "alyssa_bordner_i_1",
+    "wesley_newsome_1",
+    "yuen_lau_notebook_1"
+  ],
+  "author_verified_cer_pages": 10,
+  "pages_without_ground_truth": 20,
+  "ocr_engine": "Tesseract through pytesseract.image_to_data",
+  "cer_normalization": "Existing compute_cer implementation: JiWER when installed; fallback collapses whitespace before Levenshtein distance.",
+  "structural_method": "Existing src.document_readability implementation unchanged",
+  "render_dpi": 300,
+  "python_version": "3.13.2",
+  "package_versions": {
+    "numpy": "2.5.1",
+    "pandas": "3.0.5",
+    "opencv-python": "5.0.0.93",
+    "pytesseract": "0.3.13",
+    "jiwer": "4.0.0"
+  },
+  "tesseract_version": "tesseract v5.4.0.20240606"
+}

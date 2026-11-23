@@ -1,0 +1,77 @@
+1,4-Dimethoxy-2,5-dipinnacolborate benzene 
+B2Pin2, Pd(OAc)2, CuI, PPh3, Cs2CO3 
+MeCN, RT 
+C8H8I2O2 C20H32B2O6 
+reagents 
+Mass (g) 
+mmol 
+eq 
+M 
+Mw(g/mol) 
+S
+C8H8I2O2 
+0.100 
+0.256 
+1 
+0.3 
+389.96 
+  
+C20H32B2O6 
+0.098 
+0.256 
+1 
+  
+390.09 
+  
+B2Pin2 
+0.194 
+0.77 
+3 
+  
+253.94 
+P
+Pd(OAc)2 
+0.0022 
+0.01 
+0.04 
+  
+224.5 
+P
+PPh3 
+0.0026 
+0.01 
+0.04 
+  
+262.29 
+P
+CuI 
+0.0194 
+0.102 
+0.4 
+  
+190.45 
+P
+Cs2CO3 
+0.250 
+0.77 
+3 
+  
+325.82 
+P
+MeCN 
+0.86 
+  
+  
+  
+  
+P
+
+  
+1 All reagents were added to an RBF and MeCN was added 
+2 the RBF was capped w/ a rubber septum and the rxn stirred overnight. 
+3 Once completed the rxn was transferred to a sep funnel and extracted 
+w/ DCM 3x, then the organic layer was extracted w/ water 2x and brine 
+1x. dried w/ Na2SO4. 
+4 the dry organic layer was filtered through a celite plug and then 
+rotovaped. 
+5 A crude NMR was taken.

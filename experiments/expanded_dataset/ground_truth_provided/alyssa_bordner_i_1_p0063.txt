@@ -1,0 +1,87 @@
+Pd(OAc)2 + PPh3, K3PO4 
+Toluene/water 90 oC 
+C8H8I2O2 C12H16BNO4 C20H16N2O6 
+A B C 
+reagents 
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+notes 
+C8H8I2O2 
+0.050 
+0.1282 
+1 
+0.13 
+389.96 
+JIF-IV-093 
+C12H16BN
+O4 
+0.0798 
+0.3205 
+2.5 
+  
+249.07 
+AB-1-60 
+C20H16N2
+O6 
+0.0488 
+0.1282 
+1 
+  
+380.36 
+  
+K3PO4 
+0.4140 
+1.923 
+15 
+  
+215.29 
+  
+Pd(OAC)2 
+0.0014 
+0.0064 
+0.05 
+  
+226.52 
+  
+
+PPh3 
+0.0168 
+0.0641 
+0.5 
+  
+262.29 
+  
+toluene 
+0.5 
+  
+  
+  
+  
+  
+water 
+0.5 
+  
+  
+  
+  
+  
+  
+1 All solid reagents were added to a flask and evacuated to 50 mtorr and 
+refilled w/ nitrogen 3X. 
+2 Toluene from the SPS and sparged water was added and the rxn was 
+refluxed at 120 oC. 
+10/6/25 
+Product I think (very small spot) 
+60% etoac:hex 
+3 more of reagent B was added since the TLC still shows reagent A and 
+no reagent B (another 0.0798 g). 
+4 on 10/7/25 the rxn was completely dried out. 
+5 Rxn was dissolved in water and filtered through celite. 
+6 Filtrate was extracted w/ EtOAc 3X, then the organic layers were 
+collected and extracted w/ H2O 2x and brine 1x and then dried w/ 
+anhydrous sodium sulfate. 
+7 the dried organic layers were filtered through celite and then rotovaped 
+and a crude NMR was taken.

@@ -1,0 +1,40 @@
+SDS 
+phloroglucinol: mw: 126.11 g/mol 
+(Hazardous to aquatic life) 
+- Inhalation: Remove to fresh air 
+- Skin contact: wash w/ water for at least 15 minutes 
+- Eye contact: Rinse w/ water and under lids for at least 15 minutes 
+- Ingestion: Drink Plenty of water 
+BP: N/A    MP: 215-218 oC 
+Beige powder, no smell info 
+solubility: water soluble 
+  
+Hexamethylenetetramine: mw: 140.19 g/mol 
+(flammable, skin irritant) 
+mw: 140.19 g/mol 
+- Inhalation: Remove to fresh air 
+- Skin contact: wash w/ water for 15 min 
+- Eye contact: wash w/ water for 15 min 
+- Ingestion: Drink plenty of water 
+BP: N/A  MP: N/A  FP: 250 oC 
+water soluble, white solid, smells ammonia like 
+  
+Triformylphloroglucinol: mw: 210.14 g/mol 
+(skin / eye irritant) 
+- Inhalation: Remove to fresh air 
+- Skin contact: wash w/ water for 15 min 
+- eye contact: wash w/ water for 15 min 
+- Ingestion: Drink plenty of water 
+BP: N/A  MP: 205 oC 
+Solubility: N/A 
+orange solid, no smell info 
+  
+Trifluoroacetic acid: clear liquid, pungent mw: 114.02 g/mol 
+(corrosive, respiratory irritant)  
+mw: 114.02 g/mol 
+- Inhalation: Remove from exposure, lie down, no mouth to mouth 
+- skin contact: wash w/ water and remove contaminated clothing 
+
+- eye contact: rinse w/ water, immediate medical attention 
+- Ingestion: Do NOT induce vomit, clean mouth w/ water 
+BP: 72 oC, MP: -15 oC, water soluble

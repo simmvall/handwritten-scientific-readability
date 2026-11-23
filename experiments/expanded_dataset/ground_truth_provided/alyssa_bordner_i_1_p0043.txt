@@ -1,0 +1,71 @@
+Nitro Reduction 
+DCF-V-004 
+
+Raney Ni, N2H4 H2O 
+DMF, 153 oC 
+C20H16N2O6 C20H20N2O2 
+A B  
+Reagents  
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+Density (g/mL
+C20H16N2
+O6 
+0.400 
+1.0516 
+1 
+0.07 
+380.36 
+  
+C20H20N2
+O2 
+0.3369 
+1.0516 
+1 
+  
+320.39 
+  
+Raney Ni 
+0.778 
+6.62508 
+6.3 
+  
+58.69 
+  
+N2H4 H2O 
+1.596 mL  
+25.869 
+24.6 
+  
+50.06 
+1.027 
+DMF 
+15.02 mL 
+  
+  
+  
+  
+  
+Reaction Started at 12:30 
+1. Reagent A was added to a RBF w/ a stirbar 
+2. most of the DMF was added so that there was a wet solution. Raney 
+Ni was weighed directly into the flask. (b/c the raney Ni is in a slurry it is 
+difficult to measure and ~3g was added, a lot more than needed) 
+3. The remaining DMF was added and used to wash any Raney Ni off 
+the walls. 
+4. N2H4 was added dropwise and gently swirled while added. Extra 
+caution was taken to make sure the solution did not bubble over. A 
+condenser was added (w/no top to make sure there was no pressure 
+build up) 
+5. The rxn was heated to 155 oC and refluxed and stirred vigorously. 
+6. After ~4 hrs the rxn was filtered while hot through celite and washed 
+w/ hot DMF (extra caution was taken to make sure raney Ni didn’t dry 
+out and it was immediently covered w/ sand once the wash was 
+complete.   
+7. The clear filtrate was collected and the product was crashed out w/ 
+water and then ice. (too much DMF was used during the filtration step 
+so a very large amount of water had to be used. This could have 
+potentially impacted the yield.)

@@ -1,0 +1,31 @@
+page_id,notebook_id,source_filename,source_page_number,image_filename,image_width,image_height,handwriting_category,content_notes,ground_truth_status
+alyssa_bordner_i_1_p0023,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,23,alyssa_bordner_i_1_p0023.png,2334,3300,,,author_verified
+alyssa_bordner_i_1_p0032,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,32,alyssa_bordner_i_1_p0032.png,2550,3192,,,author_verified
+alyssa_bordner_i_1_p0043,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,43,alyssa_bordner_i_1_p0043.png,2475,3300,,,author_verified
+alyssa_bordner_i_1_p0061,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,61,alyssa_bordner_i_1_p0061.png,2359,3300,,,author_verified
+alyssa_bordner_i_1_p0063,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,63,alyssa_bordner_i_1_p0063.png,2392,3300,,,author_verified
+alyssa_bordner_i_1_p0078,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,78,alyssa_bordner_i_1_p0078.png,2550,3234,,,author_verified
+alyssa_bordner_i_1_p0079,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,79,alyssa_bordner_i_1_p0079.png,2350,3300,,,author_verified
+alyssa_bordner_i_1_p0082,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,82,alyssa_bordner_i_1_p0082.png,2550,3192,,,author_verified
+alyssa_bordner_i_1_p0085,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,85,alyssa_bordner_i_1_p0085.png,2292,3300,,,author_verified
+alyssa_bordner_i_1_p0098,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,98,alyssa_bordner_i_1_p0098.png,2267,3300,,,author_verified
+wesley_newsome_1_p0001,wesley_newsome_1,Wesley_Newsome_1.pdf,1,wesley_newsome_1_p0001.png,2470,3300,,,required
+wesley_newsome_1_p0012,wesley_newsome_1,Wesley_Newsome_1.pdf,12,wesley_newsome_1_p0012.png,2406,3300,,,required
+wesley_newsome_1_p0024,wesley_newsome_1,Wesley_Newsome_1.pdf,24,wesley_newsome_1_p0024.png,2550,3267,,,required
+wesley_newsome_1_p0035,wesley_newsome_1,Wesley_Newsome_1.pdf,35,wesley_newsome_1_p0035.png,2004,3300,,,required
+wesley_newsome_1_p0046,wesley_newsome_1,Wesley_Newsome_1.pdf,46,wesley_newsome_1_p0046.png,2259,3300,,,required
+wesley_newsome_1_p0058,wesley_newsome_1,Wesley_Newsome_1.pdf,58,wesley_newsome_1_p0058.png,2132,3300,,,required
+wesley_newsome_1_p0069,wesley_newsome_1,Wesley_Newsome_1.pdf,69,wesley_newsome_1_p0069.png,2259,3300,,,required
+wesley_newsome_1_p0080,wesley_newsome_1,Wesley_Newsome_1.pdf,80,wesley_newsome_1_p0080.png,2362,3300,,,required
+wesley_newsome_1_p0092,wesley_newsome_1,Wesley_Newsome_1.pdf,92,wesley_newsome_1_p0092.png,2550,3098,,,required
+wesley_newsome_1_p0103,wesley_newsome_1,Wesley_Newsome_1.pdf,103,wesley_newsome_1_p0103.png,2550,3267,,,required
+yuen_lau_notebook_1_p0001,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,1,yuen_lau_notebook_1_p0001.png,2211,3300,,,required
+yuen_lau_notebook_1_p0012,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,12,yuen_lau_notebook_1_p0012.png,2209,3300,,,required
+yuen_lau_notebook_1_p0023,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,23,yuen_lau_notebook_1_p0023.png,2550,3220,,,required
+yuen_lau_notebook_1_p0035,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,35,yuen_lau_notebook_1_p0035.png,2550,3099,,,required
+yuen_lau_notebook_1_p0046,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,46,yuen_lau_notebook_1_p0046.png,2504,3300,,,required
+yuen_lau_notebook_1_p0057,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,57,yuen_lau_notebook_1_p0057.png,2550,3092,,,required
+yuen_lau_notebook_1_p0068,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,68,yuen_lau_notebook_1_p0068.png,2425,3300,,,required
+yuen_lau_notebook_1_p0080,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,80,yuen_lau_notebook_1_p0080.png,2550,3194,,,required
+yuen_lau_notebook_1_p0091,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,91,yuen_lau_notebook_1_p0091.png,2323,3300,,,required
+yuen_lau_notebook_1_p0102,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,102,yuen_lau_notebook_1_p0102.png,2400,3300,,,required

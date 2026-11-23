@@ -1,0 +1,76 @@
+dimethoxy terphenyl 
+K2CO3, Pd(PPh3)4 
+Toluene/water 110 oC 
+Toluene/water 110 oC 
+C8H8I2O2 C12H18BNO2  
+A 
+C20H20N2O2 
+Reagents 
+Mass (g) 
+mmol 
+eq 
+M 
+Mw(g/mol) 
+SDS 
+C8H8I2O2 
+0.600 
+1.539 
+1 
+0.13 
+389.96 
+Pg 7 
+C12H18BN
+O2 
+0.843 
+3.847 
+2.5 
+  
+219.09 
+Pg 7 
+C20H20N2
+O2 
+0.493 
+1.539 
+1 
+  
+320.39 
+  
+K2CO3 
+3.236 
+23.08 
+15 
+  
+140.22 
+Pg 8 
+Pd(PPh3)4 
+0.089 
+0.0769 
+0.05 
+  
+1155.56 
+Pg 9 
+Toluene 
+6 mL 
+  
+  
+  
+  
+Pg 8 
+water 
+6 mL  
+  
+  
+  
+  
+  
+  
+1. The water was bubbled for 30 min 
+2. All solid reagents were added to a 25 mL 2-neck flask and evacuated 
+to 100 mtorr and then refilled w/ nitrogen 3x. 
+3. the water and toluene from the SPS was added and it was refluxed at 
+110 oC for 2 days. 
+- the rxn was not showing up on TLC. Solid clumps formed and I think 
+that's where the reagents were. 
+4. The rxn was filtered through celite and washed w/ ethyl acetate and 
+then evaporated to take a crude NMR 
+- product was not in crude NMR.

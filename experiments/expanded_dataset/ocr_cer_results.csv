@@ -1,0 +1,671 @@
+page_id,notebook_id,ocr_text,ocr_confidence,ground_truth_text,cer,ground_truth_status,error
+alyssa_bordner_i_1_p0023,alyssa_bordner_i_1,"S prol? continu > Se 10 i - gue eo | Peston | BP: | Bei b powder tol miami fanm¢ +8) __ BP! x SDS od from Page \ucino | Acus tO, zn hoa +N yaa\ AO N/A able, 4 win | = {ng Nip. Ps | aquane Con ntact: Ai | contoot, 7 Bye Contoot, wos _ esron. Drink ple Wt lAG@ell Jima _ aree py tty tact ‘ 40 fresh aiy thea ty Lucey for Ot least | minuks by WI Waly and under ids for at yeast '2 minut AE Plenty of wuotey MAP. ID -Q1g, °C, | | tt. |Srine Lt |i £0. Watty soluble i“ mu: 1UG..19 JIMer rah ain | | | wary for min | USOIEy for 12. Min. CF wat [A | Ep: 990°C a= co WN SO\WOAL unites ould, smeils ommcniar Like “mw Qio. en y mos { solulbori! orange Trflowroacerre atid * | Ore IM, (espiratory ici ~\q hototi an: - akin contact : was “eye Contact: Ahince wi ROL bo NO MP: T#EC Signed e contact: wosh wi n. Drink plenty Cf 7 a | | aid i | water for 12 min. wate for 19 Min. | Water _ |__| APD 200 * cc N/a ¢ . {|__| — na ay ue down, 0 mauts +o mounts tor and vemnouw nam bode Coture — wl wo 7 eT tamectiott med cau arttnnion. wore nduce., uoMmir eid Mout. wl Worey C emell_ tnfo “pungent | re 114.02 darcy Ty -(9° Continued on Page Read and Understood By Signed ee Date",56.60188087774295,"SDS 
+phloroglucinol: mw: 126.11 g/mol 
+(Hazardous to aquatic life) 
+- Inhalation: Remove to fresh air 
+- Skin contact: wash w/ water for at least 15 minutes 
+- Eye contact: Rinse w/ water and under lids for at least 15 minutes 
+- Ingestion: Drink Plenty of water 
+BP: N/A    MP: 215-218 oC 
+Beige powder, no smell info 
+solubility: water soluble 
+  
+Hexamethylenetetramine: mw: 140.19 g/mol 
+(flammable, skin irritant) 
+mw: 140.19 g/mol 
+- Inhalation: Remove to fresh air 
+- Skin contact: wash w/ water for 15 min 
+- Eye contact: wash w/ water for 15 min 
+- Ingestion: Drink plenty of water 
+BP: N/A  MP: N/A  FP: 250 oC 
+water soluble, white solid, smells ammonia like 
+  
+Triformylphloroglucinol: mw: 210.14 g/mol 
+(skin / eye irritant) 
+- Inhalation: Remove to fresh air 
+- Skin contact: wash w/ water for 15 min 
+- eye contact: wash w/ water for 15 min 
+- Ingestion: Drink plenty of water 
+BP: N/A  MP: 205 oC 
+Solubility: N/A 
+orange solid, no smell info 
+  
+Trifluoroacetic acid: clear liquid, pungent mw: 114.02 g/mol 
+(corrosive, respiratory irritant)  
+mw: 114.02 g/mol 
+- Inhalation: Remove from exposure, lie down, no mouth to mouth 
+- skin contact: wash w/ water and remove contaminated clothing 
+
+- eye contact: rinse w/ water, immediate medical attention 
+- Ingestion: Do NOT induce vomit, clean mouth w/ water 
+BP: 72 oC, MP: -15 oC, water soluble",0.7533039647577092,author_verified,
+alyssa_bordner_i_1_p0032,alyssa_bordner_i_1,"Continued from Page i xan INA3 | upenes te | 17] prin toiuene (wort Caltelada Cighia BNO, | | |} e A | || |_| 4 eae Der Heoaen ass a) | gq | jee | 44 mus Onc) ODS. Ne Cal dlaQa | 0.G00 |& 1.539] 4 10.13) 309.9G /R + Cra hieBNy 0-045 3. a44 (a. 5] | Qia-09 Pa + CooHsoNsln | 0.443. 1.5389 _ rr |_| oO ad | L_ yal) 3.93G |93.08 | | 40. Pg & PACPPh3 0.08% loa. ane 0.0% | Ne. ac | P99 toluene ~@mt | {| yet} ft tt a ihe water ws bulboied for 30 min 2 , | : All Solid Teagents were addeal . AIS mL 2-neowe Flasit and ewocuouta to. a MtOry ond ten refilled wi “te BX L | ihe, yates and toluene from the St wos added and i ood retiuxdat ite rn oa not showii Up on. TLC. Solid clumps formed and [thu | Tnots Winer the ‘ Othe en wos flied fardighl outtt and ui ul thu Sent and the. eyoporOttaa +6 tAve a Crude NUR. | fy ‘oduot wos rok in crude, SUA, CEE “0 IC Continued on Page Read and Understood By Beer akolos Date Signed Signed",50.77092511013216,"dimethoxy terphenyl 
+K2CO3, Pd(PPh3)4 
+Toluene/water 110 oC 
+Toluene/water 110 oC 
+C8H8I2O2 C12H18BNO2  
+A 
+C20H20N2O2 
+Reagents 
+Mass (g) 
+mmol 
+eq 
+M 
+Mw(g/mol) 
+SDS 
+C8H8I2O2 
+0.600 
+1.539 
+1 
+0.13 
+389.96 
+Pg 7 
+C12H18BN
+O2 
+0.843 
+3.847 
+2.5 
+  
+219.09 
+Pg 7 
+C20H20N2
+O2 
+0.493 
+1.539 
+1 
+  
+320.39 
+  
+K2CO3 
+3.236 
+23.08 
+15 
+  
+140.22 
+Pg 8 
+Pd(PPh3)4 
+0.089 
+0.0769 
+0.05 
+  
+1155.56 
+Pg 9 
+Toluene 
+6 mL 
+  
+  
+  
+  
+Pg 8 
+water 
+6 mL  
+  
+  
+  
+  
+  
+  
+1. The water was bubbled for 30 min 
+2. All solid reagents were added to a 25 mL 2-neck flask and evacuated 
+to 100 mtorr and then refilled w/ nitrogen 3x. 
+3. the water and toluene from the SPS was added and it was refluxed at 
+110 oC for 2 days. 
+- the rxn was not showing up on TLC. Solid clumps formed and I think 
+that's where the reagents were. 
+4. The rxn was filtered through celite and washed w/ ethyl acetate and 
+then evaporated to take a crude NMR 
+- product was not in crude NMR.",0.6336116910229646,author_verified,
+alyssa_bordner_i_1_p0043,alyssa_bordner_i_1,"Project, NitTO Peduch on Continued from Page 43 NOs, NUg, Cao WoNade Caan HaaNaOg theagents | mass g) \ mmot 01 | A\ mw Clot) | Pensity (nlf spi _Ca0° Hiahisbey 0.400, | t.091G | 4 lool] 380.3G Coo Voo Na 0.3349 \1.091G E | 320.39 fp | Mane Ne 0.1778 |o. (CABG o3| | 56. 64 |. {P42 Ny Hu, “Hy 6. 1699 Co me 29. 0A pu Gl | GO.0G 4 |1-O%71 Pg 2 “DUE | 19-01 mL | | | | | ft | pq 38 — atheacxion. SO ted Or (450 | | | | | | | © Meagent a was added to oO ABr. wh 0 sirloar most ~ of the DAF g S30 that_+there wos a wet solution. Garey ra ) the Flask Che the raney Ni is ina aur ve Y2Q WAS added, alot more than ""9 awd red to. WOSr any faney Ni off 1uticn ch spony suied While Oddec!. extra._caut mate d not buolole Or. A condencer SUrt Aho WAS NO pasccU sould UP) 0 nee: me refluxed and Shit vi IQO0VOL et h. te hed wl lot Due (ek WOS CON and Aen ice. (100 much DMF Signed 40 Was Ustad dutil CouUAcn Was raven 40 ove SUL fancy Ni -ietmedien ty opus wl! Sand gym - cree He Wot List | the clear filtrate Uas conects and the erie! wos crashed out wl water the fie ANON sitp 30 A Very } of water tod 10 be Used. The Could! Pou pokenrally petockal Continued on Page 4Y Read and Understood By Signed Date",55.344051446945336,"Nitro Reduction 
+DCF-V-004 
+
+Raney Ni, N2H4 H2O 
+DMF, 153 oC 
+C20H16N2O6 C20H20N2O2 
+A B  
+Reagents  
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+Density (g/mL
+C20H16N2
+O6 
+0.400 
+1.0516 
+1 
+0.07 
+380.36 
+  
+C20H20N2
+O2 
+0.3369 
+1.0516 
+1 
+  
+320.39 
+  
+Raney Ni 
+0.778 
+6.62508 
+6.3 
+  
+58.69 
+  
+N2H4 H2O 
+1.596 mL  
+25.869 
+24.6 
+  
+50.06 
+1.027 
+DMF 
+15.02 mL 
+  
+  
+  
+  
+  
+Reaction Started at 12:30 
+1. Reagent A was added to a RBF w/ a stirbar 
+2. most of the DMF was added so that there was a wet solution. Raney 
+Ni was weighed directly into the flask. (b/c the raney Ni is in a slurry it is 
+difficult to measure and ~3g was added, a lot more than needed) 
+3. The remaining DMF was added and used to wash any Raney Ni off 
+the walls. 
+4. N2H4 was added dropwise and gently swirled while added. Extra 
+caution was taken to make sure the solution did not bubble over. A 
+condenser was added (w/no top to make sure there was no pressure 
+build up) 
+5. The rxn was heated to 155 oC and refluxed and stirred vigorously. 
+6. After ~4 hrs the rxn was filtered while hot through celite and washed 
+w/ hot DMF (extra caution was taken to make sure raney Ni didn’t dry 
+out and it was immediently covered w/ sand once the wash was 
+complete.   
+7. The clear filtrate was collected and the product was crashed out w/ 
+water and then ice. (too much DMF was used during the filtration step 
+so a very large amount of water had to be used. This could have 
+potentially impacted the yield.)",0.6330399458361544,author_verified,
+alyssa_bordner_i_1_p0061,alyssa_bordner_i_1,"project. COF (vein vids) Continued from Page __ EN Ho : . | GAL |_| fp AcOuU Axtas NS Cor dioxane /mesitylene ore Ng -Co0UpoNolp dioxdne [008 rnnont| moss | onma | ee | | wos (roto NaDa| O-OAC | CxO | 4+ ]o-094 Jp 41 Tp }O, 006A] OoOU9U lo.g} | baV- 3-168. pioxlDCB | A-GAmL| oan neon | oMLt ff oe — —+ “the SONNE PLO~AWIe from ANB wos fF followed We Only, Ott ev, ence Wo the. OB | | | No product wos Observed tn the KAD ! | | of _ L nal, | | _ 2 ~ | | Continued on Page Read and Understood By BY 9 halos . | Signed Date Signed Date",56.30379746835443,"COF (vial vials) 
+Tfp, AcOH 6M COF 
+Dioxane/mesitylene 90 oC 
+
+Or 
+Dioxane/DCB 100 oC 
+C20H20N2O2 
+Reagent  
+Mass (g) 
+mmol 
+eq 
+M 
+Note
+C20H20N2O2 
+0.020 
+0.0624 
+1 
+0.024 
+AB-
+Tfp 
+0.0089 
+0.0424 
+0.67 
+  
+DAV
+Diox./mes 
+2.62 mL  
+  
+  
+  
+  
+Diox./DCB 
+2.62 mL  
+  
+  
+  
+  
+AcOH 
+150 mL 
+  
+  
+  
+  
+  
+  
+Diox. 
+Mes. 
+Ratio  
+A 
+1.83 
+0.79 
+7:3 
+B 
+1.57 
+1.05 
+6:4 
+C 
+1.31 
+1.31 
+5:5 
+  
+Diox.  
+DCB 
+ratio 
+D 
+2.62 
+0 
+10:0 
+E 
+2.36 
+0.26 
+9:1 
+F 
+2.10 
+0.52 
+8:2 
+  
+The same procedure from ANB-1-59 was followed, the only difference 
+was the oven temps. 
+NO product was observed in the PXRD",0.8297161936560935,author_verified,
+alyssa_bordner_i_1_p0063,alyssa_bordner_i_1,"eee SS —e=~=S—(as hh hhh rrrrlhCU _—S—<S:F Project_ _ Continued from Page Z PA Cone + PPhs gPO4 ‘cami | i afer famed _Paededbvaset F i | | ree qo*e aa Cray @ BNO. sz t+ | | Pillorc ‘CacltnaOo, A | la | | | | Mass Co) mmol ] ew MM \ mw Cdima) | Nore _¥8 6.190% | + 10.131 300.90. pir-w-o4 | PQ7 Ch 0.0208 Cate SNDu] © - 0198 F 3205 Asp 4849. OF —_[AB-1- GO Cao Hie Na% CHS | 0. 1209 — 1300.34 v3y 1o-44O 11,993 ce | 419 29 1G p4CORAa 10+ COI4 |o.0aG4|o.| [29G.02 | Jey 7e Ms j0.01G8 [0-0G4\ Jo.o] [aGa.29 14! bower | OS |. | 1 | fill 7, © woter. 6K) | Ga sotd reagents were. added toa flast ond evaoucritd to SO mtotC and refilled wl n | Browne pam “he 508. and. § Brached nite wos. s odded ond the rin. wos retuxed af 019195 hss (sing shal Sex Pitti tt tt et exORC Hey. | | | | ia | Bmore of reagent B. Was. -odded pets TUt still shou fap A and M0 * TB! Can 0.008 | — selAlges | Bon iolalae the 1x0 wos Tore \\ Rae aur. |_| Sun wos gissolved in uber and find ‘amuin Cebit. The ?* rininn WOS, extracted u/ eLone 3x , then Hae wy. Or oun c LOyers WU Gollecttd and exnacitd w/ UoQ Ax ona | oe, Lr ara fin dcitd wl enyr® vnnydvous Sedium suitor. K*® De Cried Orie var wee Ailend Hwouo lh C2Lite and Men eootd YOIOVOKS and 0 UAW wos tore). Continued on Page GG Read and Understood By Uyse Boe oli les | Date Signed Date Signed",45.579288025889966,"Pd(OAc)2 + PPh3, K3PO4 
+Toluene/water 90 oC 
+C8H8I2O2 C12H16BNO4 C20H16N2O6 
+A B C 
+reagents 
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+notes 
+C8H8I2O2 
+0.050 
+0.1282 
+1 
+0.13 
+389.96 
+JIF-IV-093 
+C12H16BN
+O4 
+0.0798 
+0.3205 
+2.5 
+  
+249.07 
+AB-1-60 
+C20H16N2
+O6 
+0.0488 
+0.1282 
+1 
+  
+380.36 
+  
+K3PO4 
+0.4140 
+1.923 
+15 
+  
+215.29 
+  
+Pd(OAC)2 
+0.0014 
+0.0064 
+0.05 
+  
+226.52 
+  
+
+PPh3 
+0.0168 
+0.0641 
+0.5 
+  
+262.29 
+  
+toluene 
+0.5 
+  
+  
+  
+  
+  
+water 
+0.5 
+  
+  
+  
+  
+  
+  
+1 All solid reagents were added to a flask and evacuated to 50 mtorr and 
+refilled w/ nitrogen 3X. 
+2 Toluene from the SPS and sparged water was added and the rxn was 
+refluxed at 120 oC. 
+10/6/25 
+Product I think (very small spot) 
+60% etoac:hex 
+3 more of reagent B was added since the TLC still shows reagent A and 
+no reagent B (another 0.0798 g). 
+4 on 10/7/25 the rxn was completely dried out. 
+5 Rxn was dissolved in water and filtered through celite. 
+6 Filtrate was extracted w/ EtOAc 3X, then the organic layers were 
+collected and extracted w/ H2O 2x and brine 1x and then dried w/ 
+anhydrous sodium sulfate. 
+7 the dried organic layers were filtered through celite and then rotovaped 
+and a crude NMR was taken.",0.7408333333333333,author_verified,
+alyssa_bordner_i_1_p0078,alyssa_bordner_i_1,"78 Project UY - py methoxy, A D- dipinnacalborat —_ bentene Continued from Page CoHplaOa (a) BP Ca 30 Ba Oy pnts _| Mass mmol | e@| AL] mw cglmot) | spsi_ | | Jae |_| Cettelada | 0.09, foias | fo.8 [ea 9@ | BaPills G.0At. 0.399 | 3 ie i PACA }0- G01 |0.005, lect Yd 5 _|G.co\3 5 4 | IGR.B, “Car COO} 0.GSI jo 140.1 - O.1AD 10.385 12 395. AD | | ip Oa | 0.100. | 0.266 : 03 | 300,96 |} CaozaBsQG] 0. 690 10 en ] ne mete cn ‘i tronsttind 49/ ae te 0nd extracts Ul De Herougle A Chie PY, and hen rota Continued on Page 7 Read and Understood By Signed Date Signed Date",59.66463414634146,"1,4-Dimethoxy-2,5-dipinnacolborate benzene 
+B2Pin2, Pd(OAc)2, CuI, PPh3, Cs2CO3 
+MeCN, RT 
+C8H8I2O2 C20H32B2O6 
+reagents 
+Mass (g) 
+mmol 
+eq 
+M 
+Mw(g/mol) 
+S
+C8H8I2O2 
+0.100 
+0.256 
+1 
+0.3 
+389.96 
+  
+C20H32B2O6 
+0.098 
+0.256 
+1 
+  
+390.09 
+  
+B2Pin2 
+0.194 
+0.77 
+3 
+  
+253.94 
+P
+Pd(OAc)2 
+0.0022 
+0.01 
+0.04 
+  
+224.5 
+P
+PPh3 
+0.0026 
+0.01 
+0.04 
+  
+262.29 
+P
+CuI 
+0.0194 
+0.102 
+0.4 
+  
+190.45 
+P
+Cs2CO3 
+0.250 
+0.77 
+3 
+  
+325.82 
+P
+MeCN 
+0.86 
+  
+  
+  
+  
+P
+
+  
+1 All reagents were added to an RBF and MeCN was added 
+2 the RBF was capped w/ a rubber septum and the rxn stirred overnight. 
+3 Once completed the rxn was transferred to a sep funnel and extracted 
+w/ DCM 3x, then the organic layer was extracted w/ water 2x and brine 
+1x. dried w/ Na2SO4. 
+4 the dry organic layer was filtered through a celite plug and then 
+rotovaped. 
+5 A crude NMR was taken.",0.7375722543352601,author_verified,
+alyssa_bordner_i_1_p0079,alyssa_bordner_i_1,"project —___—_—_—— a 79 Continued from Page a) Bie ubte solid Wos eorystattized yn MeO ond fre Flfroke Quod couaned . Arother NLA wos token | Ree: UV ieee iON ooth FU A and BePing were Still present A) We UNS recnyiduined again in EtOH nd He filtrate wos rorovapped Meher Storting matuiou~ was presert | — AnoYner M. Was taken 10 Confirm. wfrasovar Mn +0 remove MeCN tortore, extractia? 70. «h #f yields imprae ‘Cextractions wl 3 compnent , wor (deU, and MelM is not geod) Continued on Page Read and Understood By Signed Date Date",56.67226890756302,"6. The white solid was recrystallized in MeOH and the filtrate was 
+rotovaped, Another NMR was taken. 
+- yield = 0.06 g = 60% yield  
+- After recrystallization both SM A and B2Pin2 were still present. 
+7. It was recrystallized again in EtOH and the filtrate was rotovaped. 
+- yield = 0.05 g = 50% yield  
+- neither starting material was present. 
+- Another NMR was taken to confirm. 
+* Rotovap rxn to remove MeCN before extraction to see if yields 
+improve.  
+(extraction w/ 3 components, water, DCM, and MeCN is not good)",0.6149425287356322,author_verified,
+alyssa_bordner_i_1_p0082,alyssa_bordner_i_1,82 Project_43.9- TriformutPhiorog\ucinol “synthesis _ Continued from Page | 4. &l ml | CakeOs Cphioropluci yo!) vere. : | sini Stren adaply and ey Continued on Page Read and Understood By Signed Date Signed Date,86.23776223776224,"1,3,5-Triformylphloroglucinol Synthesis 
+1 HMTA, TFA, 100 oC, 2.5 hr 
+2 HCl, 100 oC, 1 hr  
+C6H6O3 C9H6O6 
+Reagents  
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+S
+C6H6O3 
+0.200 
+1.586 
+1 
+1 0.54 
+2 0.33 
+126.11 
+P
+C9H6O6 
+0.333 
+1.586 
+1 
+  
+210.14 
+P
+HMTA 
+0.489 
+3.489 
+2.2 
+  
+140.19 
+P
+TFA 
+2.94 mL 
+  
+  
+  
+  
+P
+HCl 
+4.81 mL  
+  
+  
+  
+  
+P
+
+  
+  
+1 HMTA and C6H6O3 (phloroglucinol) were added to a 15 mL 2-neck 
+flask w/ a condenser and schlenk adapter and evacuated to 100 mtorr 
+and backfilled w/ N2 (g) 3x. Then transfered to another fume hood 
+nitrogen line w/ a bubbler. 
+2 conc. TFA was added and the rxn was heated to 100 oC at reflux 
+(12:30 pm). 
+- rxn turned yellow within 45 minutes, however not all SM was 
+dissolved 
+- rxn also was not at a reflux temp at 100 oC. 
+- As rxn progressed it got more yellow  
+3 HCl was added at 3:30 pm and rxn was still bright yellow. 
+- rxn stayed bright yellow the entire time and solids were in there the 
+entire time 
+4 At 5:00 pm the rxn was cooled to RT and quenched w/ water 
+5 solution (neon yellow) was filtered through celite but some browm 
+stuff came through and I think the celite plug was dirty,  
+* I also think the heat was not working during the rxn and that's likely 
+why it stayed yellow and insoluble the whole time.",0.88828125,author_verified,
+alyssa_bordner_i_1_p0085,alyssa_bordner_i_1,"; 1,3. D> TH project ormul A “phloragucinol _ Continued from Page | es — DAMA, TEA, tore 9.5 Ler ZZ ~Od QU, 100°C, hy pnlorolucanol and KUTA were. oR uns anda tt _ this vime_im ry | ¥ wb MaLing sal ait PRL ae LE “when dade A ee So it WwOs ss ~ COWOY_| aco From rit low §6 right Orange tw msymin in Oc a china betas fo 1 | = paUINA IAB KN Was _o ora. vn_/Or Ora.no,2 Color ¢ | Bom. rxn_turned imtoo op (td uli, ve “cooled. ta OT. oe hal 340 om exn_wos token © _| {|_| page sui lds Filiered’ wl _cetite and. Wart Cind DOA. and Ic layers Were ‘then extracita - Bx ¥he OY Rr iste are ar are Ax “ona. ‘lovee devon. Gant NU in COCs wos toven of most OF te ane cobr Saye in the aqeaus phase rh, inal is t - Continued on Page Read and Understood By 4 Be (gis ke - —_ Dat",55.61818181818182,"1,3,5-Triformylphloroglucinol 
+1 HMTA, TFA, 100 oC, 2.5 hr 
+2 HCl, 100 oC, 1 hr  
+C6H6O3 C9H6O6 
+Reagents  
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+S
+C6H6O3 
+0.200 
+1.586 
+1 
+1 0.54 
+2 0.33 
+126.11 
+P
+C9H6O6 
+0.333 
+1.586 
+1 
+  
+210.14 
+P
+HMTA 
+0.489 
+3.489 
+2.2 
+  
+140.19 
+P
+TFA 
+2.94 mL 
+  
+  
+  
+  
+P
+HCl 
+4.81 mL  
+  
+  
+  
+  
+P
+  
+
+1 Phloroglucinol and HMTA were added to a RBF w/ a condenser and 
+TFA was added. 
+- This time I'm trying it without making solids air free. 
+- TFA fumed a lot when added to the RBF so it was added slowly. 
+- color changed from bright yellow to bright orange within 5 min. 
+2 Rxn was heated to 100 C and stirred (12:00 pm). 
+3 3M HCl was added at 2:30 PM and rxn turned into a deep red which 
+overtime turned into a deep orange. 
+4 At 3:30 pm rxn was taken off heat and cooled to RT. 
+5 orange solution was filtered w/ celite and water and DCM and then 
+extracted w/ DCM 3x, the organic layers were then extracted w/ water 2x 
+and brine 1x and rotovapped down 
+6 An NMR in CDCl3 was taken. 
+* most of the orange color stays in the aqueous phase. The product is a 
+very very pale yellow 
+0.08 g product  40% yield.",0.6882096069868996,author_verified,
+alyssa_bordner_i_1_p0098,alyssa_bordner_i_1,"98 Project Continued from Page OrTaluene wos free7e- Pump lbahed oan lid motcrigls were added to a A 16 ml APF w! a condenser. a aouattd +0 19 mtorr and — then oofiltd ul] Neg) 3x. {itty tt} i fy @ Tene wos add 10 the MBE and He sdlution was Neattd te 90% Od Shred | || tf -\e uns ano lito peor epi Up but Once lnot It a O dart 6 et Lev ColoY | | | This 81S -Olboove rit wecd\ \yodine., IS nat Getivt under. _3cann : * CI ai Gas SONU Q mistoice $0. res tele ‘a : Pech ects ace sof | C0). eORc:Hey 4} took NMA while the nn WO tu SOMe Beil ond & Voovs Wve shee 0 mn 49 (Or ik pa Por Longer EV eq Ih oN eh mt ory } he a y Signed Date nM Vaan a Avie i Soh a4 aa we \A -- erOAc: Mey 46 $28 Hf i WS Comolete there. Is stl me o pote monast uel So. !m bd Continued on Page peas Read and Understood By Signed",58.74131274131274,"B2Pin2, KoAC, Pd(dppf)Cl2 
+Toluene, 90 oC, 2d 
+C12H18Br2O4 (A) C24H40B2O8 (B) 
+Reagents  
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+SDS 
+C12H18Br2
+O4 
+0.100 
+0.2604 
+1 
+0.12 
+384.06 
+  
+C24H40B2
+O8 
+0.125 
+0.2604 
+1 
+  
+478.20 
+  
+B2Pin2 
+0.145 
+0.5729 
+2.2 
+  
+253.94 
+Pg 7 
+KoAC 
+0.128 
+1.302 
+5 
+  
+98.15 
+Pg 75 
+Pd(dppf)Cl2 
+0.011 
+0.0130 
+0.05 
+  
+816.64 
+Pg 8 
+Toluene 
+2.17 mL  
+  
+  
+  
+  
+Pg 8  
+  
+1 Toluene was freeze-pump-thawed 3x and all solid materials were 
+added to a 10 mL RBF w/ a condenser and evacuated to 150 mtorr and 
+then backfilled w/ N2 (g) 3x. 
+2 Toluene was added to the RBF and the solution was heated to 90 oC 
+and stirred. 
+
+- It was an orange solution before heating up but once hot it was a dark 
+orange, almost black color. 
+This spot is above B2Pin2, it’s not stained by iodine, its not active under 
+365nm  
+(I think this spot was a mistake so I redid the TLC) 
+Both blue dots under 365nm also  
+Both spots are active under both l 
+(blue spots) 
+60% etoac:hex 
+60% etoac:hex 
+* I took a NMR while the rxn was running to see if it was complete, there 
+is still some B2Pin2 and it looks like there may be some 
+monosubstituted so I'm going to let it run longer 
+* I came in on 1/19 and rxn had dried",0.7245313773431132,author_verified,
+wesley_newsome_1_p0001,wesley_newsome_1,"vU © oO Table of Contents \nyaton of SA-F- U4 _Dibepe-Mte-Analre) cue ds bramo-'2., 5 - bis (trimethy sly) 1 ehrche | ce di bfeme-2,S - bis (4 inethy le low) bNzel@ 7 ioe Mee Subcom aietanalide , U4 “di brome- 2S) eis Cit nets Lox) )-bebene a uN Ea Scale a wats ae Dvg eat (an “) | ""Ss = nae 4 Be ee Id? nethdsy oKy) benzche — \, al! o-S- JV; “Tho sh | SS Tee scale ral mao 71505) N -T - aH Scale ub 1-000 4) a wat gala. a p. mye ( Bo (one oS 2 —'Besl ta tm | | 4 =~ [bromo 4 ~pitrpana wil | , INE ae ue (72: 250k ' ( Nw Smethyl - “te ley fe Ssoctoans (M8) pao WT -07 ee “ES — WSN-T-O Oly Nak meth yt ee sho. “Ye a (fay at 3 L “wywT- SAN LYE | Nees ~~ —— a AGh~) ware cae 4, oN ‘brovow! Y. nittassaliie Lice, ob faa) % Yn: figs S -dehfomoghwline 27 | ie edhe ao vnc Wizean line Cath MeL) — LS Scale —2Y wa. Nee 2 Z~ dha Me! galing 30 2, 4 Bs Ba ndpiede) = “4- beconaline A \V-l- 0%» ( | 2. ore “OLS -—, 33 ra ww aon at ~-0 3! (0 WA din, -727 Es Pyotho - - ph lene dtuiry, € oe Fate 1S st fl "" 37 Otte a -T-O24 (a. Se (Ms ce",38.945945945945944,,,required,
+wesley_newsome_1_p0012,wesley_newsome_1,"_—_ Oy 6 Ae dak | ay wats str eat EIN Was | | wgulolon Clady pen to My of Acetic ta i “5 sion WU WE star a ne ~ Sf ha Pt EO re (io [ Sion a SOk Mea) | by ay ‘phe ela a mV Zz lectyshel olen free 0.3%, suede aus fe",60.94845360824742,,,required,
+wesley_newsome_1_p0024,wesley_newsome_1,"f Wise hd slehin dea mal Aa thee Lees, 5 ecetele | | | | | {| dt | es a a ee ee ne een Ce | } + 4 | | | | | po fp | | T | | tM He. rmsied 40 Vacs | | ——_——————————— | | | +} >> +--+ 4+ } | | | ff of oj jj ej | | i | | | { t | + + + } | L | Continued on Pag Read and Understood By Date",67.81203007518798,,,required,
+wesley_newsome_1_p0035,wesley_newsome_1,"Notebook No, ontinued fro om Pa Provecr WIN - “O70 Scale — se gen My, ae TOA from t (e ns = , “9 a t Faved mg rdcesicet L rts eld _| ame mele w/ Hekanes Harel ah. bacoat ef ~ HAC Nak Vly 00d. Kok sea _ slut poet I | t | ES es ee a | +———_}——__}__}_ —__+",51.7625,,,required,
+wesley_newsome_1_p0046,wesley_newsome_1,"7 @ was _désolyed at THE “el ti wr Notebook No. __ Continued from Page Pe tebe bel fe the RBE BE +t Reta fie - nil Kol solution. (bole |_a | yf te “ee ‘Merit ores eet ight ely pity Wis ace rescltel (Ge ef Fs LL ae oem lar ah y fo fle tio 7 aa “yi ep trackion but Pol aint” et x i ‘id: ian ma eee fe remove bn Oo. “, S65. o: Bi “he it Ce eS fo",61.56934306569343,,,required,
+wesley_newsome_1_p0058,wesley_newsome_1,Continued from Page Wee OH a sack :t420 | hte compl {| 7 i [tT ——> ——++— it~ | | Read and Understood By,81.05128205128206,,,required,
+wesley_newsome_1_p0069,wesley_newsome_1,"a, 50 wl in amas WAS care old alr, =the pe ‘l a Mme, drial ae ""ay rhe, ik eee = oponic Ac d were added to the Li eb mn i Ac eee adde ksf m wes Proxy is at Nd ate Syotthh Wee aie then | = Se wnt Was Cfalye a“ Yas A Sea feudal Pb fy ef. Zit se eae OGM, WG if (lok) et “or PE | 7 ar LES ote Me Popect | i= HA Mi \one upre sat sean feacbyns",47.865979381443296,,,required,
+wesley_newsome_1_p0080,wesley_newsome_1,"g oe es aor Bis ae Pad } ae TT 5 Dtel a vac adplr “rekiled w/ My xB fl | by Vrain Ue perCips ba whe ei, Wete al |",74.71910112359551,,,required,
+wesley_newsome_1_p0092,wesley_newsome_1,"ot a “Cun oath eROUES! WIV -T-066 <ele a ieee oo on oe it - D Sree Hcl E04 — : Ld 4 ty, ede zeme KB : Ch, Fo Mt : ae sleity enh Was added to nv was KyYA@ ceflac derity umole seduclen r i fe hs aaal) 4 50% A080 ce | ae "" pst Lon was med 4 sohcatt! Dis eget eld ae Sllacd oft 5 ied vider v Wa | Pitt | tf 6 4 | | jae ee: lel + thine | PT ee] eet tt | {| || entetis | PEEL Grabs | Continued on Page Read and Understood By 45/0 he. 7lod ab _ ~~ Signed - Date",55.93292682926829,,,required,
+wesley_newsome_1_p0103,wesley_newsome_1,"| pred. a Micruay, dk rit ( eystem defaced ed 4 laced A Meta, hase pe ot tp pt St i | 4 t t T tT: 7H Hr 4 } tp) + + | a ce ee ee | t t y pr +HMP_} Read and Un Jerstood By",65.73863636363636,,,required,
+yuen_lau_notebook_1_p0001,yuen_lau_notebook_1,LABORATORY NOTEBOOK Company Name: Univesty 4 (ent Flom __ Department: __Chemppy Notebook No.: __ 4 Assigned to: SWepilhtis ss SS Date: _ 2(2i[2oy,60.4,,,required,
+yuen_lau_notebook_1_p0012,yuen_lau_notebook_1,". Ce ac eh chia aed ah ; RE aC ey tt ; eee pet Lt ees K Wa et etal SEEER-GERESEES ee | eet NTS TST pel eae TLL Hetaprenipmetone (may TTT TT TTP PTT ee PE TT ent trogen) metidend, (TH) pe RRRRRRERHRAARRERARAAE ST ey TT leds oes ata estat oat sR SRE teeee ca dont ceaifastisontoct TTL LTA | eof] | Talad 7 eS Ree Bee baa Ji Gee) PE Le) bob Ld tals) ia Dba Lae ASHI chal! + Dokawe, Trstead 4 iy 2 Smt ROE: Te Ha TTT US Tundael al Shea: Daidone! Algae) (1 | i} Tt fay | SRRRRRM he NN ase LL Ea shal",52.896907216494846,,,required,
+yuen_lau_notebook_1_p0023,yuen_lau_notebook_1,"coer eh aeeahs meet | 6.284 | 1.182 | 0. ae Notebook No, Continued from Page —— came | | KA BATE td aa Si cali a al ee A Pai fat (et tT | UI Cee Ea : | | a eal Coa ie S| a aa \4 Lata 8 nd : { : 4 = hk Te sons NS a ae = “a || Wert atten vlicu \S Be ag ial Calin Ee ae 3h A ae"" ER eee |_| __ {SSS SUS SRR eee ae eee 2 vU ® 2 = 5 Read and Understood By Signed",59.346666666666664,,,required,
+yuen_lau_notebook_1_p0035,yuen_lau_notebook_1,"j_ Nimple tt | Ae I-Ma a oat Nab | Yav-tiai NAL T=3Me_} YAL-£+23=} 0,042} Oh a Me a [12.7 Sonitate | Rea! Seconae to let the (Sole) Grauttate |7h5 | ip | Geto be |e | Pye Fue] | | [sale 3 Add 0S mo [meothpene! ant | OS ml oy | dioxane +o —— {| 1% Wats) Ha! 4 rae ie St tt Se ; aawalmiog | | oloi pl ae ee [| SLNoS Nat TT 34a) + ildad— bs} —clwied | Meaipyte Nene Ada Go eS eel ( preptaud_ ov 5. Hedh ttn He fuse CFF | asa 4h Dut He Spin unde. Vac. nth) £180 mtorr p | ||. | “fun bo. VG Cui “Values | oes ee |B. | Flame Sean! He! other Ena He | Huts ~ A. Rilous | Hee fue #0 codt ty 27 | | | Signed Read and Understood By Signed",60.640151515151516,,,required,
+yuen_lau_notebook_1_p0046,yuen_lau_notebook_1,"BESRERBSREDROHEG GSMs. ie odoo BREE REERSLE ARRON AAs BC ERERREERMMELRREBSMRS sae BYERERRErHE ESOL ROY BERBERS EE See SRA AAS 45 Date Signed fae PROJECT neesnevemmat ss ee a Fe ef PeSMeG Shonen | | ter] en | leh BEB [S| 21 Ql S| | gh ST eae SERS e ea ou. SS RPS pe op eee ee S| ee he eee me (EGRRSERSOWEE CHOSE RESSeC ree Po pe ee ea a st SURSEEEer ety Seas c=? hs SSP we joe Tas Cre CT cee aalel ee eel lw PSE LeG SESSRe hha 2 | 18 RCT ea a ares 2 +e ise ST ig Ts SHG ge PR ae eee go: ar: | ‘ aes ate eH ii. | S CaS ie [ot Sree AE BRR CER Fe gt SROs dl ol Sigial | | ial tice | | Ad Rad A, (| egeiete LS cia Mi a il a | Signed",46.48557692307692,,,required,
+yuen_lau_notebook_1_p0057,yuen_lau_notebook_1,"Notebook No. Continued from Page a meee Sale ee Eto eek sh asectpsaneneaenaee ——Wethed 2) Pout thot enable | me ty | Tel tek Lele leaden! | [| pride meme tl | 7 (See cranas i amie ela | (1, Wine! the. | ontvatalann |owal 1h OBE me 56 PROJECT Read and Understood By | Date SS Signed Date",75.41614906832298,,,required,
+yuen_lau_notebook_1_p0068,yuen_lau_notebook_1,"67 Continued from Page __—_ Notebook No. wear ¢; W/ HLL 25 (7) -Nth | 4 me — . nae TTLEL LL LISA eee eee CCCLCL_TLLI iss eee Pie LCL eS ss eee Re ee late SS ae ee eee SS GREESRe FIP ee seeeee se! Pek eA Ie m2 WIRE. si ued on Page BEE ce ae es Lees See ies Ss SS sr arse ae a #20 -H4- Yt : ; i = | 3 / |e f | te S st = Coe Se | Ses Sees a 7 Py 2S 820 | : lehct Lat eae > —_—_—"" ae: By Signed na nacatton.tne| We 4 pad Ys | lec AY) ~ lon 2 Ara Ty - z (7 ett agd all S S| me us iano _| 4 cr | SS - Pa) — We ps A eases SERGEESHREE EER SEEPS (et 1 4 SS eee ad See | eee ‘2 | Pe ae eee iS Ce eee $}—+— Pec “deed -€ wy * Ss s 4 UB Wad wll a ballon fil Li tet fn 7 ll ih i n Cin ur Shows. We \) 4 a‘ CAL = Mh 7 as iat - 5 io ie Ge aise = pr Grn | cy ld o >| zw 1 | tre Sdn 3 : lo Ld a sc Gael al GS GE GS eee ee | Bol re |G tt [Sa | F A Ei *] | =) aa a B SS 4 0d me if Signed",51.90571428571429,,,required,
+yuen_lau_notebook_1_p0080,yuen_lau_notebook_1,"hotv- Tpwleculaa cArabon eKxpajwead Ws) MLAZS(T)- NPA Cine Green _\a2« Notebook No. Continued from Page ~ wo neal merry isa vie ; Le ee a eel a (Re en es Vl Lc 1204 MA ee “file { | __} 4 ___}____ al ES Bar 4 Ls atte Pian so | | OH ee ie a i) Dane e AI 175 (Ti) | |_| mee fet _ d-meti Se SRL owe Oe onus aay 1 le ned fi On ts (¥al-rt (- ae lt Tapani (oars Neto long) Ateneo NETH pie | ceconginan. Cr eet hae Pam 50. we bormwet| ( re! gooet loa “| Arians | Retfreia$ stuctentJ at dred tlds bt old Lar olaabs 15-l poeh_| Se le ath lastnarl th nae [ chet bgdeal__lyan-tt-tbal = | LE i"" ele ge tthe 1S 4 Tote tm - PSeSeeNsiscene Smee at cee Ta et eagle TT we! Cz schoo [cla ues elk all a a) am sal iva [ol ste | ete OTP eto’ TTT 8 Jig. | bain pa are| bal oe | [ae metyrtes [Lt rea Ieoleabol- dled bale (eaoale | cbslccLels Plo] ) Sieaheaies | an dt tar Lcarte | tabetha TT Th ea tbat ten LT Pais eae Ta PEPER COC a ? rd he Sh oi 4 2 ad Lal a Ca lube lookeates| 43. boathaon file {st O2 | orguol | i Pek ltrtadiatiest eclaoe osl Ule] aetalagl al Ie Jal ted) eam | ee i a ee | ee CCCCECE pele hasake Gala i eT Cec ete: beet [baer Sth rarer | COCO ested ardiaator PE Tt ee “he Se ae",37.38819875776397,,,required,
+yuen_lau_notebook_1_p0091,yuen_lau_notebook_1,"hastocattlyes CxpeiTment : [rinciccser P if ‘9 Notebook No. Continued from Page) aa mammmemecs ly | | Te Se Loc effete i | FP Gem —— skeet ee eee aa a PROJECT Wl Tee See i Lice EE~ BEoeenee Ll [Osa oe a Deeg MlokeloW tz [nom lolook 111 || | J pot bstahamb |) iam TT TT tank Tealeshy] ola | Iactpamrte [ dduchaide [Le Pees! olint Looe 1 ttt] ttheuden lel Youd | te fa MeO wiilig it lltt | iii See HEE “_ Dieses oe Read and Understood By J eS Date aie tigned, sa Date",57.74285714285714,,,required,
+yuen_lau_notebook_1_p0102,yuen_lau_notebook_1,101 Notebook No. PROJECT Continued from Page i os oes d Pe i ; a} aL by a WLLL LLL eee CS 3S Teo eee a PG COE Cea ORCC ee PS e_ eeeeeeeeee CLCUOR_LCISLCLL TE eee eee CCLRC CECE eee ee eee CCC CPC eee CCAHTE Coe a Cig CIRC este eee ee as 2 Coser ee eS TT Pa Sl fet atest | ee Tiss (eae eee CSS Wo SSss7 eee eee SRS ChR: SSRs Pie ete eee CCS él eee eee Cas Sie ee eee Fert soap: sUGEEEEoeeee te sceeeeas=22 TC StSsss ie eee eee Se SCE | CCECEEEC ECCS,30.63716814159292,,,required,

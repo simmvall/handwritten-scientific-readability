@@ -1,0 +1,4 @@
+notebook_id,pages,cer_pages,mean_combined_score,mean_ocr_confidence,mean_cer
+alyssa_bordner_i_1,10,10,0.9074620638455245,58.15341027802261,0.724404214600716
+wesley_newsome_1,10,0,0.798639012141362,60.63461984443003,
+yuen_lau_notebook_1,10,0,0.924937388348426,53.28593897176412,

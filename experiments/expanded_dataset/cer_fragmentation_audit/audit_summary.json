@@ -1,0 +1,13 @@
+{
+  "pages_audited": 10,
+  "raw_cer_matches_stored_count": 10,
+  "fragmentation_reproduction_count": 30,
+  "diagnostic_pages": [
+    23,
+    61,
+    79,
+    82
+  ],
+  "correlation_tests": 24,
+  "audit_directory": "C:\\Users\\plain\\handwritten-scientific-readability\\experiments\\expanded_dataset\\cer_fragmentation_audit"
+}

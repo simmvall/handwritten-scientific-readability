@@ -1,0 +1,80 @@
+COF (vial vials) 
+Tfp, AcOH 6M COF 
+Dioxane/mesitylene 90 oC 
+
+Or 
+Dioxane/DCB 100 oC 
+C20H20N2O2 
+Reagent  
+Mass (g) 
+mmol 
+eq 
+M 
+Note
+C20H20N2O2 
+0.020 
+0.0624 
+1 
+0.024 
+AB-
+Tfp 
+0.0089 
+0.0424 
+0.67 
+  
+DAV
+Diox./mes 
+2.62 mL  
+  
+  
+  
+  
+Diox./DCB 
+2.62 mL  
+  
+  
+  
+  
+AcOH 
+150 mL 
+  
+  
+  
+  
+  
+  
+Diox. 
+Mes. 
+Ratio  
+A 
+1.83 
+0.79 
+7:3 
+B 
+1.57 
+1.05 
+6:4 
+C 
+1.31 
+1.31 
+5:5 
+  
+Diox.  
+DCB 
+ratio 
+D 
+2.62 
+0 
+10:0 
+E 
+2.36 
+0.26 
+9:1 
+F 
+2.10 
+0.52 
+8:2 
+  
+The same procedure from ANB-1-59 was followed, the only difference 
+was the oven temps. 
+NO product was observed in the PXRD

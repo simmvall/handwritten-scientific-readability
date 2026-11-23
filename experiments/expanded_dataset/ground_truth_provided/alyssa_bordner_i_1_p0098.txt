@@ -1,0 +1,75 @@
+B2Pin2, KoAC, Pd(dppf)Cl2 
+Toluene, 90 oC, 2d 
+C12H18Br2O4 (A) C24H40B2O8 (B) 
+Reagents  
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+SDS 
+C12H18Br2
+O4 
+0.100 
+0.2604 
+1 
+0.12 
+384.06 
+  
+C24H40B2
+O8 
+0.125 
+0.2604 
+1 
+  
+478.20 
+  
+B2Pin2 
+0.145 
+0.5729 
+2.2 
+  
+253.94 
+Pg 7 
+KoAC 
+0.128 
+1.302 
+5 
+  
+98.15 
+Pg 75 
+Pd(dppf)Cl2 
+0.011 
+0.0130 
+0.05 
+  
+816.64 
+Pg 8 
+Toluene 
+2.17 mL  
+  
+  
+  
+  
+Pg 8  
+  
+1 Toluene was freeze-pump-thawed 3x and all solid materials were 
+added to a 10 mL RBF w/ a condenser and evacuated to 150 mtorr and 
+then backfilled w/ N2 (g) 3x. 
+2 Toluene was added to the RBF and the solution was heated to 90 oC 
+and stirred. 
+
+- It was an orange solution before heating up but once hot it was a dark 
+orange, almost black color. 
+This spot is above B2Pin2, it’s not stained by iodine, its not active under 
+365nm  
+(I think this spot was a mistake so I redid the TLC) 
+Both blue dots under 365nm also  
+Both spots are active under both l 
+(blue spots) 
+60% etoac:hex 
+60% etoac:hex 
+* I took a NMR while the rxn was running to see if it was complete, there 
+is still some B2Pin2 and it looks like there may be some 
+monosubstituted so I'm going to let it run longer 
+* I came in on 1/19 and rxn had dried

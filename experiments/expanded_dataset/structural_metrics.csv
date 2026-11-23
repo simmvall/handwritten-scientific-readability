@@ -1,0 +1,31 @@
+page_id,notebook_id,source_filename,source_page_number,image_filename,image_width,image_height,handwriting_category,content_notes,ground_truth_status,baseline_consistency,spatial_organization,text_fragmentation,combined_score
+alyssa_bordner_i_1_p0023,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,23,alyssa_bordner_i_1_p0023.png,2334,3300,,,author_verified,0.8192524529682008,0.9354544840801334,0.8435528570094621,0.8522130208070919
+alyssa_bordner_i_1_p0032,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,32,alyssa_bordner_i_1_p0032.png,2550,3192,,,author_verified,0.9508510900627533,0.9975096023135324,0.8333227053358583,0.9131714386221511
+alyssa_bordner_i_1_p0043,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,43,alyssa_bordner_i_1_p0043.png,2475,3300,,,author_verified,0.9861223150425131,0.9980084100155596,0.8433426205169636,0.9313876562269027
+alyssa_bordner_i_1_p0061,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,61,alyssa_bordner_i_1_p0061.png,2359,3300,,,author_verified,0.981684842020573,0.9970459012118945,0.8380226976087409,0.9272921960941046
+alyssa_bordner_i_1_p0063,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,63,alyssa_bordner_i_1_p0063.png,2392,3300,,,author_verified,0.9765469057789263,0.9986517269946652,0.8507381577056683,0.930644370792771
+alyssa_bordner_i_1_p0078,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,78,alyssa_bordner_i_1_p0078.png,2550,3234,,,author_verified,0.9730358811750301,0.9977140627091163,0.8524245178283263,0.9297269721431658
+alyssa_bordner_i_1_p0079,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,79,alyssa_bordner_i_1_p0079.png,2350,3300,,,author_verified,0.9617070524247845,0.9984990190551984,0.8181997150964108,0.9116625108195178
+alyssa_bordner_i_1_p0082,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,82,alyssa_bordner_i_1_p0082.png,2550,3192,,,author_verified,0.975557256361141,0.9986724694631577,0.8604933752370114,0.9341547465318925
+alyssa_bordner_i_1_p0085,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,85,alyssa_bordner_i_1_p0085.png,2292,3300,,,author_verified,0.887752662468673,0.9870997278495114,0.8421607905700004,0.8893853267853716
+alyssa_bordner_i_1_p0098,alyssa_bordner_i_1,Alyssa Bordner I-1.pdf,98,alyssa_bordner_i_1_p0098.png,2267,3300,,,author_verified,0.7829263466577734,0.9980873938311168,0.8554859555073598,0.8549823996322767
+wesley_newsome_1_p0001,wesley_newsome_1,Wesley_Newsome_1.pdf,1,wesley_newsome_1_p0001.png,2470,3300,,,required,0.0,0.9987979336856644,0.8744410761086763,0.5495360171806034
+wesley_newsome_1_p0012,wesley_newsome_1,Wesley_Newsome_1.pdf,12,wesley_newsome_1_p0012.png,2406,3300,,,required,0.9850309854891058,0.9963652708860982,0.8311388211325926,0.9257409768258991
+wesley_newsome_1_p0024,wesley_newsome_1,Wesley_Newsome_1.pdf,24,wesley_newsome_1_p0024.png,2550,3267,,,required,0.9869696575514466,0.9956391521780255,0.8333072632190062,0.9272385987437863
+wesley_newsome_1_p0035,wesley_newsome_1,Wesley_Newsome_1.pdf,35,wesley_newsome_1_p0035.png,2004,3300,,,required,0.9732647631367499,0.9772163376186104,0.8105010249607727,0.9089495827627312
+wesley_newsome_1_p0046,wesley_newsome_1,Wesley_Newsome_1.pdf,46,wesley_newsome_1_p0046.png,2259,3300,,,required,0.0,0.993506611341415,0.8284715392621489,0.5300899379731425
+wesley_newsome_1_p0058,wesley_newsome_1,Wesley_Newsome_1.pdf,58,wesley_newsome_1_p0058.png,2132,3300,,,required,0.9786778479205107,0.9963985600246329,0.8062393130912999,0.9132465764096509
+wesley_newsome_1_p0069,wesley_newsome_1,Wesley_Newsome_1.pdf,69,wesley_newsome_1_p0069.png,2259,3300,,,required,0.8537305226206108,0.9894929087676017,0.8099508966386991,0.8633711494572444
+wesley_newsome_1_p0080,wesley_newsome_1,Wesley_Newsome_1.pdf,80,wesley_newsome_1_p0080.png,2362,3300,,,required,0.9714208075286005,0.9983271528868265,0.8435049026174719,0.9256357146357943
+wesley_newsome_1_p0092,wesley_newsome_1,Wesley_Newsome_1.pdf,92,wesley_newsome_1_p0092.png,2550,3098,,,required,0.0,0.9936543684537763,0.8204530401596626,0.5269120897546203
+wesley_newsome_1_p0103,wesley_newsome_1,Wesley_Newsome_1.pdf,103,wesley_newsome_1_p0103.png,2550,3267,,,required,0.9727144035151967,0.9913039515189281,0.8208073149007089,0.915669477670148
+yuen_lau_notebook_1_p0001,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,1,yuen_lau_notebook_1_p0001.png,2211,3300,,,required,0.9164285289496192,0.8979135521885522,0.9406188641570118,0.9224016676803629
+yuen_lau_notebook_1_p0012,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,12,yuen_lau_notebook_1_p0012.png,2209,3300,,,required,0.9890701580055552,0.9974534154647764,0.8767141542682859,0.9458044080024918
+yuen_lau_notebook_1_p0023,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,23,yuen_lau_notebook_1_p0023.png,2550,3220,,,required,0.9286550128145046,0.9984986341918064,0.8710689941445029,0.9195893296219643
+yuen_lau_notebook_1_p0035,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,35,yuen_lau_notebook_1_p0035.png,2550,3099,,,required,0.9459414948849152,0.9923599602399504,0.8643257283557289,0.9225788813442477
+yuen_lau_notebook_1_p0046,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,46,yuen_lau_notebook_1_p0046.png,2504,3300,,,required,0.943293729500702,0.9592688120184468,0.8447181025692466,0.9070584952316689
+yuen_lau_notebook_1_p0057,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,57,yuen_lau_notebook_1_p0057.png,2550,3092,,,required,0.9688374824684097,0.9887143230692059,0.8199646070518094,0.9132637004219288
+yuen_lau_notebook_1_p0068,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,68,yuen_lau_notebook_1_p0068.png,2425,3300,,,required,0.9899734941081084,0.9917537371470031,0.8294193075410231,0.9261078680890533
+yuen_lau_notebook_1_p0080,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,80,yuen_lau_notebook_1_p0080.png,2550,3194,,,required,0.917707334910752,0.9798085243339391,0.889806520538625,0.9189672470465386
+yuen_lau_notebook_1_p0091,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,91,yuen_lau_notebook_1_p0091.png,2323,3300,,,required,0.9659110686429567,0.9977830604019998,0.8804127836158184,0.9380861529839101
+yuen_lau_notebook_1_p0102,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,102,yuen_lau_notebook_1_p0102.png,2400,3300,,,required,0.962136550216437,0.9975877678828069,0.8778598984973958,0.9355161330620945

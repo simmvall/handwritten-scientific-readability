@@ -1,0 +1,68 @@
+1,3,5-Triformylphloroglucinol Synthesis 
+1 HMTA, TFA, 100 oC, 2.5 hr 
+2 HCl, 100 oC, 1 hr  
+C6H6O3 C9H6O6 
+Reagents  
+Mass (g) 
+mmol 
+eq 
+M 
+Mw (g/mol) 
+S
+C6H6O3 
+0.200 
+1.586 
+1 
+1 0.54 
+2 0.33 
+126.11 
+P
+C9H6O6 
+0.333 
+1.586 
+1 
+  
+210.14 
+P
+HMTA 
+0.489 
+3.489 
+2.2 
+  
+140.19 
+P
+TFA 
+2.94 mL 
+  
+  
+  
+  
+P
+HCl 
+4.81 mL  
+  
+  
+  
+  
+P
+
+  
+  
+1 HMTA and C6H6O3 (phloroglucinol) were added to a 15 mL 2-neck 
+flask w/ a condenser and schlenk adapter and evacuated to 100 mtorr 
+and backfilled w/ N2 (g) 3x. Then transfered to another fume hood 
+nitrogen line w/ a bubbler. 
+2 conc. TFA was added and the rxn was heated to 100 oC at reflux 
+(12:30 pm). 
+- rxn turned yellow within 45 minutes, however not all SM was 
+dissolved 
+- rxn also was not at a reflux temp at 100 oC. 
+- As rxn progressed it got more yellow  
+3 HCl was added at 3:30 pm and rxn was still bright yellow. 
+- rxn stayed bright yellow the entire time and solids were in there the 
+entire time 
+4 At 5:00 pm the rxn was cooled to RT and quenched w/ water 
+5 solution (neon yellow) was filtered through celite but some browm 
+stuff came through and I think the celite plug was dirty,  
+* I also think the heat was not working during the rxn and that's likely 
+why it stayed yellow and insoluble the whole time.
