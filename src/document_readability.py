@@ -557,17 +557,24 @@ def compute_metrics(image: Union[str, os.PathLike, Any]) -> ReadabilityMetrics:
     )
 
 
+# Classification bands (equal thirds of the 0-1 scale). These labels are
+# provisional and have not been calibrated against CER. Changing them does not
+# change any metric or combined score. Earlier versions used 0.80 / 0.50.
+HIGH_THRESHOLD = 0.67
+MODERATE_THRESHOLD = 0.34
+
+
 def classify_score(score: float, metric_name: str) -> str:
     if metric_name == "text_fragmentation":
-        if score >= 0.80:
+        if score >= HIGH_THRESHOLD:
             return "Low Fragmentation (High Readability)"
-        if score >= 0.50:
+        if score >= MODERATE_THRESHOLD:
             return "Moderate Fragmentation"
         return "High Fragmentation (Low Readability)"
 
-    if score >= 0.80:
+    if score >= HIGH_THRESHOLD:
         return "High"
-    if score >= 0.50:
+    if score >= MODERATE_THRESHOLD:
         return "Moderate"
     return "Low"
 
