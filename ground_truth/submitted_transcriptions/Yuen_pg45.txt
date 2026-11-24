@@ -1,0 +1,15 @@
+Continued from Page 43
+
+YAL-I-43
+
+6 tubes of NH2-MIL-125
+
+Actual mass of 2-aminoterephthalic acid Sample # PXRD Measurement time Observation 0.4004 g YAL-I-43A, YAL-I-43B ~18h in 150 °C diffraction pattern observed (Sample color: golden yellow) 0.4007 g YAL-I-43C, YAL-I-43D ~in 150 °C 0.4010 g YAL-I-43E, YAL-I-43F ~in 150 °C
+
+10. After 18h, Sample # YAL-I-43A was vacuum-filtered. (using anhydrous DMF to remove any unreacted ligands, and get all the solids out of the tube) in air.
+11. Then, the sample was rinsed a few times w/ chloroform. (because vacuum filtered product is still wet; DMF is hard to remove)
+12. The yield prior to solvent exchange, and after PXRD is 0.1319 g
+13. PXRD shows diffracted pattern, the first three major peaks are in alignment w/ literature values
+14. The sample is subjected to solvent exchange for at least 5 times (exchanging DMF w/ a more volatile solvent, chloroform) for an interval of 2-3 d.
+
+Continued on Page 45

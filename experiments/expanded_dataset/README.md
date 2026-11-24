@@ -30,6 +30,12 @@ that these were manually transcribed by the author, these entries are marked
 verification, not an independent second review. All other selected pages are
 marked `required` and need manual transcription.
 
+Manual transcriptions for 10 pages each of the Wesley and Yuen notebooks were
+added later in the same per-page format (see `ground_truth/README.md`). Only
+Yuen pages 12 and 23 are part of the 30-page sample above; the other 18 pages
+are outside it, and `dataset_manifest.csv`, `transcription_status.csv` and the
+result tables have not been regenerated to include them.
+
 The selection is a reproducible pilot sampling frame, not a claim that the
 pages are independent observations or that visual categories have been
 independently assigned. Complete the category, content, and verification

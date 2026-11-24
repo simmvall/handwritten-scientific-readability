@@ -1,0 +1,26 @@
+PROJECT: WJN-I-015
+
+Br, N, H, O, Br, 1, H2SO4, HNO3, Br, H, N, O, O2N, Br, 4
+
+Eq FW mmol gram d mL Reagent 1 292.96 13.952 4.0873 - 1 25 98.08 348.793 34.210 1.84 18.59 H2SO4 9.6 63.01 133.937 8.439 1.5129 5.578 HNO3 1 337.95 13.952 4.715 - - 4
+
+- 1:3 ICE to Salt, wn, was preped for a bath
+- A ~~100 mL~~ 250 mL RBF was placed in the salt/ice bath
+- 1 was added to RBF followed by H2SO4
+- HNO3 was added slowley over 15 min
+- The solution was kept under -15 °C during rxn
+- At 45 min solution was frozen solid & allowed to thaw before being retured to ice bath
+- The mixture was poured over crushed ice
+- The solid was collected and placed under high vac
+- Under High vac 3 days
+- Yield
+  ↳ 4.9198 After Multiday high vac.
+  ↳ 104.3% Yield
+- HNMR really good, only a peak @ 9.64 of unknown origin, maybe Acid
+
+TLC
+T0, 1h, 1.25h, SM, Rxn, SM, Rxn, SM, Rxn, 
+
+25% EtOAc
+
+Date: 7/28

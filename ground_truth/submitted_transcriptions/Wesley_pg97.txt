@@ -1,0 +1,30 @@
+PROJECT: WJN-I-064 Scale Up
+
+PhCOOMe, NH2, O2N, PhCOOMe, 1, MeI, NaH, THF, PhCOOMe, N(CH3)2, O2N, PhCOOMe, 5
+
+<table>
+  <row><cell>Eq</cell><cell>FW</cell><cell>mmol</cell><cell>gram</cell><cell>d</cell><cell>mL</cell><cell>Reagent</cell></row>
+  <row><cell>1</cell><cell>406.39</cell><cell>2.077</cell><cell>0.8442</cell><cell>-</cell><cell>-</cell><cell>1</cell></row>
+  <row><cell>3.5</cell><cell>24.00</cell><cell>7.271</cell><cell>0.174</cell><cell>0.6</cell><cell>0.291</cell><cell>NaH</cell></row>
+  <row><cell>5.1</cell><cell>141.94</cell><cell>10.594</cell><cell>1.504</cell><cell>2.28</cell><cell>0.660</cell><cell>MeI</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>16</cell><cell>THF</cell></row>
+  <row><cell>1</cell><cell>434.44</cell><cell>2.077</cell><cell>0.902</cell><cell>-</cell><cell>-</cell><cell>5</cell></row>
+</table>
+
+- NaH was added to a clean Dry 25 mL RBF that was filled w/ N2 gas
+- The system was lowered into a dry ice/Acetone bath & 2 mL of THF were added
+- A solution of 1 & 12 mL of THF was prepared and slowly added to the RBF, the remaining 2 mL was used to wash out solution container into NaH solution
+- Solution mixed for 5 minutes then MeI was added dropwise to the alkyline solution (solution turns Red as reaction proceeds
+  Solution removed from bath after addition & mixed @ RT 24 h
+  Rxn quenched w/ H2O & Brine, (Product slightly H2O soluble)
+  Extracted w/ EtOAc & CHCl3 (≈ 250 mL total) due to low solubility, Dried over Na2SO4, solvent Removed under red. pressure.
+- Yield ↳ 864.8 mg
+  → 95.9%
+- HNMR ✓
+
+Collected some salt that crashed out during Rotovap and was filtered off.
+
+TLC
+4h, 24h, SM, Rxn, major agn., 35% EtOAc
+
+Date: 4/7/2016

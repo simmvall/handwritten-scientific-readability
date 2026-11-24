@@ -1,0 +1,13 @@
+PROJECT: Scale-up synthesis of tetraboronic acid
+
+3/19/2014
+YAL-I-22
+
+* procedure followed the one written on pg. 12-13
+
+EQ FW mmol g d mL Reagents 1 636 0.786 0.500 TBPM 49.135 THF 6 64.06 4.717 0.302 1.887 n-Buli (2.5 m in hex) 8 188 6.289 1.182 0.81 1.456 B(o-i-Pr)3 1 480 0.786 0.377 TBA
+
+Actual wt of TBPM: 0.4996 g
+[used TBPM from samples: YAL-I-15 & YAL-I-17]
+
+Weight after vacuum-dried: 0.2389 g

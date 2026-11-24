@@ -1,0 +1,30 @@
+
+PROJECT: 1,4-dibromo-2,5-bis(trimethylsilyloxy)-benzene
+
+See: Tsutsui, Shimoe, Bull. et al. Chem. Soc. Jpn. 75, 2002 (Preparation of 2-Disilanyl-1,4-benzoquinones)
+
+Br, OH, HO, Br, 1, 1) TMSCl in Et3N & Et2O, 2) HCl 1M, Br, O, Si, O, Si, Br, 2
+
+<table>
+  <row><cell>Eq</cell><cell>FW</cell><cell>mass</cell><cell>mmol</cell><cell>d</cell><cell>mL</cell><cell>Reagent</cell></row>
+  <row><cell>1</cell><cell>267.9</cell><cell>0.050</cell><cell>0.1866</cell><cell>-</cell><cell>-</cell><cell>1</cell></row>
+  <row><cell>2.6</cell><cell>101.19</cell><cell>0.049</cell><cell>0.485</cell><cell>0.7255</cell><cell>0.067</cell><cell>Et3N</cell></row>
+  <row><cell>3</cell><cell>108.64</cell><cell>0.061</cell><cell>0.560</cell><cell>0.856</cell><cell>0.071</cell><cell>TMSCl</cell></row>
+  <row><cell>-</cell><cell>74.12</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>~~5.0~~ 6.0 mL [?6-3?]</cell><cell>Et2O</cell></row>
+  <row><cell>-</cell><cell>36.46</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>7.0</cell><cell>1M HCl</cell></row>
+  <row><cell>-</cell><cell>412.27</cell><cell>0.077</cell><cell>0.1866</cell><cell>-</cell><cell>-</cell><cell>2</cell></row>
+</table>
+
+- Dry Schlenk Flask was purged 3 time w/ Ar
+- Collected 10 mL of Dry Et2O
+- Dry 50 mL Round Bottom Flask was placed in oil bath
+- 2 mL of Dry Et2O was added to the Round bottom Flask with stir bar, 1, and TMSCl.
+- 3 mL of Dry Et2O was mixed with Et3N and was added to 50 mL RBF. (Solution turned white)
+- Solution was stirred under reflux for 1 hour
+- 7.0 mL of 1M HCl was added to the RBF (solution turned clear)
+
+1 hour, SM, Crude, w/w, 25% EtOH in Hexanes, After Pori work up, w/w, SM, worked
+
+- HNMR showed little Si-C-H peak, Reaction did not complete well
+
+Date: 6-3-15

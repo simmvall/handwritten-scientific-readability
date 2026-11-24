@@ -1,0 +1,14 @@
+Continued from Page 8
+
+(13) To the aq. phase (drain to another E.flask), add NaOH + saturated sodium bisulfite to kill the Br2
+(14) Put the org. layer back to the sep funnel, add some 1M NaOH then add saturated sodium bisulfite. (The soln turned cloudy)
+(15) Drain the org. phase (lighter orange)
+(16) Repeat solvent extraction 2x more w/ sodium bisulfite.
+(17) Do solvent extraction on the org. phase 3x w/ brine
+(18) Add MgSO4 to the org. layer, stir & wait for 5 min
+(19) Use a fritz filter, put ~0.5 cm of celite inside. and pour the org. layer to the filter.
+(20) Rotavap the solvent
+(21) Recrystallize using hot DCM & cool it w/ EtOH
+(22) Put it in the refrigerator overnight.
+
+Weight (after recrystallization): 0.1846 g

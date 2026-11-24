@@ -1,0 +1,20 @@
+(14) In the next tab, adsorptive properties
+     ↳ confirm that it is in N2 @ 77K
+(15) Finally, report condition
+     Check: Summary
+            BET
+            Isotherm
+            (optional) DFT pore size
+(16) Save → close
+(17) Click Unit 1, select sample in the new window and click start degas
+     Another window will open w/ a schematic of the degas.
+(18) After 2h, carefully unscrew + disassemble the setup
+(19) Weigh the tube (w/ cap) + sample again
+     Wt: 37.83240 g
+(20) Then fasten the tube next to the Po port the same way as described in step (5)
+
+1, 2, Po, tube
+
+(*) Before fastening, insert the white jacket to the bulbous tube
+
+Continued on Page 49
