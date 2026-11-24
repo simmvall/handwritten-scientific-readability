@@ -62,10 +62,37 @@ def notebook_files() -> Sequence[Path]:
     return sorted(PDF_DIR.glob("*.pdf"))
 
 
+def transcribed_pages(notebook_id: str) -> List[int]:
+    """PDF page numbers that have a per-page ground-truth file."""
+    pattern = re.compile(rf"^{re.escape(notebook_id)}_p(\d{{4}})\.txt$")
+    return sorted(
+        int(match.group(1))
+        for file in TRANSCRIPTION_DIR.glob(f"{notebook_id}_p*.txt")
+        if (match := pattern.match(file.name))
+    )
+
+
 def selected_pages(path: Path, page_count: int, transcribed: Iterable[int]) -> List[int]:
-    if slug(path.name) == "alyssa_bordner_i_1":
+    notebook_id = slug(path.name)
+    if notebook_id == "alyssa_bordner_i_1":
         return sorted(set(transcribed))
+    pages = transcribed_pages(notebook_id)
+    if pages:
+        return pages
     return evenly_spaced_pages(page_count, 10)
+
+
+def ground_truth_status(
+    page_id: str,
+    page_number: int,
+    is_author_verified: bool,
+    transcriptions: Dict[int, str],
+) -> str:
+    if is_author_verified and page_number in transcriptions:
+        return "author_verified"
+    if (TRANSCRIPTION_DIR / f"{page_id}.txt").exists():
+        return "manual_transcription"
+    return "required"
 
 
 def render_and_measure(
@@ -75,7 +102,7 @@ def render_and_measure(
     transcriptions: Dict[int, str],
 ) -> List[dict]:
     document = pymupdf.open(path)
-    has_provided_transcription = notebook_id == "alyssa_bordner_i_1"
+    is_author_verified = notebook_id == "alyssa_bordner_i_1"
     rows: List[dict] = []
     for page_number in pages:
         page_id = f"{notebook_id}_p{page_number:04d}"
@@ -94,10 +121,8 @@ def render_and_measure(
                 "image_height": pixmap.height,
                 "handwriting_category": "",
                 "content_notes": "",
-                "ground_truth_status": (
-                    "author_verified"
-                    if has_provided_transcription and page_number in transcriptions
-                    else "required"
+                "ground_truth_status": ground_truth_status(
+                    page_id, page_number, is_author_verified, transcriptions
                 ),
                 **metrics,
             }
@@ -166,7 +191,7 @@ def main() -> None:
             "status": row["ground_truth_status"],
             "transcription_file": (
                 f"ground_truth_provided/{row['page_id']}.txt"
-                if row["ground_truth_status"] == "author_verified"
+                if row["ground_truth_status"] != "required"
                 else ""
             ),
             "verification_notes": "",

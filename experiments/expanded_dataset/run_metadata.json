@@ -6,8 +6,8 @@
     "wesley_newsome_1",
     "yuen_lau_notebook_1"
   ],
-  "author_verified_cer_pages": 10,
-  "pages_without_ground_truth": 20,
+  "author_verified_cer_pages": 30,
+  "pages_without_ground_truth": 0,
   "ocr_engine": "Tesseract through pytesseract.image_to_data",
   "cer_normalization": "Existing compute_cer implementation: JiWER when installed; fallback collapses whitespace before Levenshtein distance.",
   "structural_method": "Existing src.document_readability implementation unchanged",

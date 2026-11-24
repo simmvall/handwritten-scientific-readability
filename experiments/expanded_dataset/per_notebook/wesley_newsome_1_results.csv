@@ -1,11 +1,229 @@
 page_id,notebook_id,source_filename,source_page_number,image_filename,image_width,image_height,handwriting_category,content_notes,ground_truth_status,baseline_consistency,spatial_organization,text_fragmentation,combined_score,ocr_text,ocr_confidence,ground_truth_text,cer,error
-wesley_newsome_1_p0001,wesley_newsome_1,Wesley_Newsome_1.pdf,1,wesley_newsome_1_p0001.png,2470,3300,,,required,0.0,0.9987979336856644,0.8744410761086763,0.5495360171806034,"vU © oO Table of Contents \nyaton of SA-F- U4 _Dibepe-Mte-Analre) cue ds bramo-'2., 5 - bis (trimethy sly) 1 ehrche | ce di bfeme-2,S - bis (4 inethy le low) bNzel@ 7 ioe Mee Subcom aietanalide , U4 “di brome- 2S) eis Cit nets Lox) )-bebene a uN Ea Scale a wats ae Dvg eat (an “) | ""Ss = nae 4 Be ee Id? nethdsy oKy) benzche — \, al! o-S- JV; “Tho sh | SS Tee scale ral mao 71505) N -T - aH Scale ub 1-000 4) a wat gala. a p. mye ( Bo (one oS 2 —'Besl ta tm | | 4 =~ [bromo 4 ~pitrpana wil | , INE ae ue (72: 250k ' ( Nw Smethyl - “te ley fe Ssoctoans (M8) pao WT -07 ee “ES — WSN-T-O Oly Nak meth yt ee sho. “Ye a (fay at 3 L “wywT- SAN LYE | Nees ~~ —— a AGh~) ware cae 4, oN ‘brovow! Y. nittassaliie Lice, ob faa) % Yn: figs S -dehfomoghwline 27 | ie edhe ao vnc Wizean line Cath MeL) — LS Scale —2Y wa. Nee 2 Z~ dha Me! galing 30 2, 4 Bs Ba ndpiede) = “4- beconaline A \V-l- 0%» ( | 2. ore “OLS -—, 33 ra ww aon at ~-0 3! (0 WA din, -727 Es Pyotho - - ph lene dtuiry, € oe Fate 1S st fl "" 37 Otte a -T-O24 (a. Se (Ms ce",38.945945945945944,,,
-wesley_newsome_1_p0012,wesley_newsome_1,Wesley_Newsome_1.pdf,12,wesley_newsome_1_p0012.png,2406,3300,,,required,0.9850309854891058,0.9963652708860982,0.8311388211325926,0.9257409768258992,"_—_ Oy 6 Ae dak | ay wats str eat EIN Was | | wgulolon Clady pen to My of Acetic ta i “5 sion WU WE star a ne ~ Sf ha Pt EO re (io [ Sion a SOk Mea) | by ay ‘phe ela a mV Zz lectyshel olen free 0.3%, suede aus fe",60.94845360824742,,,
-wesley_newsome_1_p0024,wesley_newsome_1,Wesley_Newsome_1.pdf,24,wesley_newsome_1_p0024.png,2550,3267,,,required,0.9869696575514466,0.9956391521780256,0.8333072632190062,0.9272385987437864,"f Wise hd slehin dea mal Aa thee Lees, 5 ecetele | | | | | {| dt | es a a ee ee ne een Ce | } + 4 | | | | | po fp | | T | | tM He. rmsied 40 Vacs | | ——_——————————— | | | +} >> +--+ 4+ } | | | ff of oj jj ej | | i | | | { t | + + + } | L | Continued on Pag Read and Understood By Date",67.81203007518798,,,
-wesley_newsome_1_p0035,wesley_newsome_1,Wesley_Newsome_1.pdf,35,wesley_newsome_1_p0035.png,2004,3300,,,required,0.97326476313675,0.9772163376186104,0.8105010249607727,0.9089495827627312,"Notebook No, ontinued fro om Pa Provecr WIN - “O70 Scale — se gen My, ae TOA from t (e ns = , “9 a t Faved mg rdcesicet L rts eld _| ame mele w/ Hekanes Harel ah. bacoat ef ~ HAC Nak Vly 00d. Kok sea _ slut poet I | t | ES es ee a | +———_}——__}__}_ —__+",51.7625,,,
-wesley_newsome_1_p0046,wesley_newsome_1,Wesley_Newsome_1.pdf,46,wesley_newsome_1_p0046.png,2259,3300,,,required,0.0,0.993506611341415,0.8284715392621489,0.5300899379731425,"7 @ was _désolyed at THE “el ti wr Notebook No. __ Continued from Page Pe tebe bel fe the RBE BE +t Reta fie - nil Kol solution. (bole |_a | yf te “ee ‘Merit ores eet ight ely pity Wis ace rescltel (Ge ef Fs LL ae oem lar ah y fo fle tio 7 aa “yi ep trackion but Pol aint” et x i ‘id: ian ma eee fe remove bn Oo. “, S65. o: Bi “he it Ce eS fo",61.56934306569343,,,
-wesley_newsome_1_p0058,wesley_newsome_1,Wesley_Newsome_1.pdf,58,wesley_newsome_1_p0058.png,2132,3300,,,required,0.9786778479205108,0.9963985600246328,0.8062393130912999,0.9132465764096508,Continued from Page Wee OH a sack :t420 | hte compl {| 7 i [tT ——> ——++— it~ | | Read and Understood By,81.05128205128206,,,
-wesley_newsome_1_p0069,wesley_newsome_1,Wesley_Newsome_1.pdf,69,wesley_newsome_1_p0069.png,2259,3300,,,required,0.8537305226206108,0.9894929087676017,0.8099508966386991,0.8633711494572444,"a, 50 wl in amas WAS care old alr, =the pe ‘l a Mme, drial ae ""ay rhe, ik eee = oponic Ac d were added to the Li eb mn i Ac eee adde ksf m wes Proxy is at Nd ate Syotthh Wee aie then | = Se wnt Was Cfalye a“ Yas A Sea feudal Pb fy ef. Zit se eae OGM, WG if (lok) et “or PE | 7 ar LES ote Me Popect | i= HA Mi \one upre sat sean feacbyns",47.865979381443296,,,
-wesley_newsome_1_p0080,wesley_newsome_1,Wesley_Newsome_1.pdf,80,wesley_newsome_1_p0080.png,2362,3300,,,required,0.9714208075286004,0.9983271528868264,0.8435049026174719,0.9256357146357944,"g oe es aor Bis ae Pad } ae TT 5 Dtel a vac adplr “rekiled w/ My xB fl | by Vrain Ue perCips ba whe ei, Wete al |",74.71910112359551,,,
-wesley_newsome_1_p0092,wesley_newsome_1,Wesley_Newsome_1.pdf,92,wesley_newsome_1_p0092.png,2550,3098,,,required,0.0,0.9936543684537764,0.8204530401596626,0.5269120897546203,"ot a “Cun oath eROUES! WIV -T-066 <ele a ieee oo on oe it - D Sree Hcl E04 — : Ld 4 ty, ede zeme KB : Ch, Fo Mt : ae sleity enh Was added to nv was KyYA@ ceflac derity umole seduclen r i fe hs aaal) 4 50% A080 ce | ae "" pst Lon was med 4 sohcatt! Dis eget eld ae Sllacd oft 5 ied vider v Wa | Pitt | tf 6 4 | | jae ee: lel + thine | PT ee] eet tt | {| || entetis | PEEL Grabs | Continued on Page Read and Understood By 45/0 he. 7lod ab _ ~~ Signed - Date",55.93292682926829,,,
-wesley_newsome_1_p0103,wesley_newsome_1,Wesley_Newsome_1.pdf,103,wesley_newsome_1_p0103.png,2550,3267,,,required,0.9727144035151968,0.991303951518928,0.8208073149007089,0.915669477670148,"| pred. a Micruay, dk rit ( eystem defaced ed 4 laced A Meta, hase pe ot tp pt St i | 4 t t T tT: 7H Hr 4 } tp) + + | a ce ee ee | t t y pr +HMP_} Read and Un Jerstood By",65.73863636363636,,,
+wesley_newsome_1_p0005,wesley_newsome_1,Wesley_Newsome_1.pdf,5,wesley_newsome_1_p0005.png,2380,3300,,,manual_transcription,0.975593767894143,0.9980987568870524,0.8348447363408261,0.923795153071398,"Notebook No. | Continued from Page | : eh on. d TY a ! 3 | S Dy |_| ; ou inh Fl usk |_| Fe —Celected' ld Tt Dry | | ae Je Bloat ""hod Borba one Was. pl fed mil £9 Dm-L of Diy EL dagd 4a, the Rota x l ony Ee ee hie pes 4 WOM car —| Dry Las, Mikte Ral is if 00 ee oul aie fined a “ 0 | vHon ae ‘AEA he 4 - al FG | Rex ss “ta A Sot ae the REP Signed Date Signed",55.422222222222224,"PROJECT: 1,4-dibromo-2,5-bis(trimethylsilyloxy)-benzene
+
+See: Tsutsui, Shimoe, Bull. et al. Chem. Soc. Jpn. 75, 2002 (Preparation of 2-Disilanyl-1,4-benzoquinones)
+
+Br, OH, HO, Br, 1, 1) TMSCl in Et3N & Et2O, 2) HCl 1M, Br, O, Si, O, Si, Br, 2
+
+Eq FW mass mmol d mL Reagent 1 267.9 0.050 0.1866 - - 1 2.6 101.19 0.049 0.485 0.7255 0.067 Et3N 3 108.64 0.061 0.560 0.856 0.071 TMSCl - 74.12 - - - 5.0 6.0 mL 6-3 Et2O - 36.46 - - - 7.0 1M HCl - 412.27 0.077 0.1866 - - 2
+
+- Dry Schlenk Flask was purged 3 time w/ Ar
+- Collected 10 mL of Dry Et2O
+- Dry 50 mL Round Bottom Flask was placed in oil bath
+- 2 mL of Dry Et2O was added to the Round bottom Flask with stir bar, 1, and TMSCl.
+- 3 mL of Dry Et2O was mixed with Et3N and was added to 50 mL RBF. (Solution turned white)
+- Solution was stirred under reflux for 1 hour
+- 7.0 mL of 1M HCl was added to the RBF (solution turned clear)
+
+1 hour, SM, Crude, w/w, 25% EtOH in Hexanes, After Pori work up, w/w, SM, worked
+
+- HNMR showed little Si-C-H peak, Reaction did not complete well
+
+Date: 6-3-15",0.8151340996168582,
+wesley_newsome_1_p0021,wesley_newsome_1,Wesley_Newsome_1.pdf,21,wesley_newsome_1_p0021.png,2165,3300,,,manual_transcription,0.977193028420416,0.9986170362440294,0.7960325750610111,0.9090136486413768,Notebook No. Continued from Page Sroueey WN = scale “QO woe “led S | = Hheo OF wa. “a PEA fit a4 ee ‘a! a Shah Wa Woes ft colt up. ae bo =F ei ae ha cf te +i “ol ip (old 2 UST . aha B41 bo >| | ms d | s” Nx * oM a Read and Understood By,52.35897435897436,"PROJECT: WJN-I-017 Scale Up
+
+Br, N, O, O2N, Br, 1, K2CO3, CH2Cl2, MeOH, Br, H2N, Br, 5
+
+Eq FW mmol gram d mL Reagent 1 337.95 6.283 2.1235 - - 1 3 138.21 18.850 2.605 - - K2CO3 - - - - - 35 CH2Cl2 - - - - - 35 MeOH 1 295.92 6.283 1.859 - - 5
+
+- 1 was added to a clean 250 mL RBF
+- DCM was added to dissolve the starting material
+- MeOH was then added, followed by K2CO3
+- The solution was stirred at room temp.
+- After 3h reaction mixture was taken up in H2O
+- Extracted with DCM x3 (15 mL)
+- DCM was dried with Na2SO4 and rotovaped
+- Yield = 84.9% → 1.5782 g
+- HNMR ✓
+
+TLC
+T0, 1h, 2h, 3h, SM, Rxn, SM, Rxn, SM, Rxn, SM, Rxn, 25% EtOAc
+
+Date: 7/7/15",0.8289676425269645,
+wesley_newsome_1_p0027,wesley_newsome_1,Wesley_Newsome_1.pdf,27,wesley_newsome_1_p0027.png,2188,3300,,,manual_transcription,0.9852576740008676,0.9904291906469608,0.8074080943315999,0.9151521454623792,".793| 34 20 ae $144 3.482 Ue se oe gn clon ""berg. f Fig ctused 1 ee Bip i ae St wa elle is a placed = Yell OEE, ioflad Kid | cn (SEG GES ene Geen | [Ls Y, tt Age, | - HAM rally 4 a “ON Ws “Mult! rca “hgh jake Y oP al € 4. et of TO et Read and Understood By",55.66315789473684,"PROJECT: WJN-I-015
+
+Br, N, H, O, Br, 1, H2SO4, HNO3, Br, H, N, O, O2N, Br, 4
+
+Eq FW mmol gram d mL Reagent 1 292.96 13.952 4.0873 - 1 25 98.08 348.793 34.210 1.84 18.59 H2SO4 9.6 63.01 133.937 8.439 1.5129 5.578 HNO3 1 337.95 13.952 4.715 - - 4
+
+- 1:3 ICE to Salt, wn, was preped for a bath
+- A 100 mL 250 mL RBF was placed in the salt/ice bath
+- 1 was added to RBF followed by H2SO4
+- HNO3 was added slowley over 15 min
+- The solution was kept under -15 °C during rxn
+- At 45 min solution was frozen solid & allowed to thaw before being retured to ice bath
+- The mixture was poured over crushed ice
+- The solid was collected and placed under high vac
+- Under High vac 3 days
+- Yield
+  ↳ 4.9198 After Multiday high vac.
+  ↳ 104.3% Yield
+- HNMR really good, only a peak @ 9.64 of unknown origin, maybe Acid
+
+TLC
+T0, 1h, 1.25h, SM, Rxn, SM, Rxn, SM, Rxn, 
+
+25% EtOAc
+
+Date: 7/28",0.841324200913242,
+wesley_newsome_1_p0059,wesley_newsome_1,Wesley_Newsome_1.pdf,59,wesley_newsome_1_p0059.png,2550,3285,,,manual_transcription,0.9539517197885996,0.9982766416809452,0.8335904900680748,0.9146722122788588,"56 PROJECT WSN 1031 ol Notebook No. Continued from Page | —| a —— ae shh 15 Eke | 2. Read and Understood By SO 2 Signed Continued on Page Sstit | i"" | es Ov | | ~ Tre L LP .—> TL 4 1 ee ee t—t_1 | | — a Toe rot —} TS | 1 i ! T T — | | i} ii i pop | ——7 | | _ | 7 —+ if y | ee || _— t++4-7 t——_ + TTL ‘a en | ee pate",70.02312138728324,"PROJECT: WJN-I-039 follow up
+
+Br, H2N, Br, 1, K2CO3, CH2Cl2, MeOH, Br, NH2, H2N, Br, 5
+
+Eq FW mmol gram d mL Reagent 1 307.97 0.812 0.250 - - 1 3 138.21 2.435 0.337 - - K2CO3 - - - - - 4 CH2Cl2 - - - - - 4 MeOH 1 265.93 0.812 0.215 - - 5
+
+- See WJN-I-029 for procedure
+- Quench 25 mL H2O & extract DCM @ 26h
+
+TLC
+T0, 2h, SM, Rxn, 
+
+25% EtOAc
+
+Date: 11/2/2015",0.7905027932960894,
+wesley_newsome_1_p0064,wesley_newsome_1,Wesley_Newsome_1.pdf,64,wesley_newsome_1_p0064.png,2354,3300,,,manual_transcription,0.0,0.9657492137990454,0.8426264321857178,0.5302004156340963,"i BAM Ate Notebook No. Continued from Page zi cide dou) | Vessel | 20 at hy THEE Cs att Att Met wae Lett tig (( (eect oN vcssll. eg Og wie aphid icra ( seperited Top 2 dels ¥n nn NM dads | gi “e a tot x 3 Tue pb 1 E> hye p> tat Se ee eee | ee es ee cn Oe ey 4 | 8 ot ape rel ns 1 ch (0 =Be, tn 26 he et e th Vals > | IA ed is ne, ca sth as",58.48936170212766,"PROJECT: WJN-I-033
+
+Br, NH2, O2N, Br, 1, NaH, MeI, THF, Br, N(Me)2, O2N, Br, 5
+
+Eq FW mmol gram d mL Reagent 1 295.92 30.59 9.0539 - - 1 3.5 24.00 107.1 2.570 .608 4.283 NaH 5.1 141.94 156.0 22.14 2.28 9.71 MeI - - - - - 52+17 THF 1 323.97 30.59 9.910 - - 5
+
+- Ice bath was set up
+- NaH was added to a Clean Dry 250 mL Schlenk flask w/ a stir bar and 15 mL of THF. (Under N2 gas)
+- 1 was mixed w/ 37 mL of THF (anhydrous)
+- Temperature was kept ≈ 0 °C for reaction vessel
+- 1 in THF was added dropwise to NaH/THF solution in ICE bath (Deep Red)
+- Upon completion solution was mixed for 5 min in ICE
+- 17 mL of THF & 9.71 mL of MeI were mixed and slowly added to the reaction vessel.
+- Reaction mixed under N2 in Ice bath w/o refilling Ice
+- Rxn Quenched 22h w/ 50 mL Brine 50 mL H2O
+- Extracted w/ EtOAc
+- Ran a 30 g wide column 2% EtOAc & separated Top 2 dots from rest
+- NMR showed column was 74% Product & 26% -Br, try 2% THF column
+- Sublimation test 40 °C High Vac. → 42 mTorr for 30 min led to → Pure product unsublimed & mixture of both as sublimed, 42% P & 58% -Br in sublimed product, try lower w/ High P & 45 °C
+- Recrystal EtOH → 89% Pure Product by mass
+  3.8984
+  ↳ 39.3% Yield
+
+TLC
+T0, 22h, Post workup, SM+P, -Br, Rxn, Di-Br, Di, Mono, 
+
+15% EtOAc
+
+Date: 11/19/2015",0.8453125,
+wesley_newsome_1_p0074,wesley_newsome_1,Wesley_Newsome_1.pdf,74,wesley_newsome_1_p0074.png,2470,3300,,,manual_transcription,0.98834260700721,0.978198990442347,0.8211718207887375,0.9194455692068484,"on og EN Eitri “noi ne ebook No K the “A clean Dry So mL éhlen a oe es ale ae Me 6G gungeatl "" at (4 - co dey | tm ""He WL snl viz/ unt) ig hb ua, ih {Placed tA vial 2 (3mL yin | che “te rt nettle Be LO oth maid ral Both Wetec ~ oly We plesk - Sypke yp rane nz et hawed ut tee id A, f Hae “th Villa OG ie ee tink. + ne ee We ue Ae Aa efal | Ah $$$ $F",42.925233644859816,"PROJECT: 2,5-Bis(p-phenylmethylester)-4-nitroaniline
+
+Br, NH2, O2N, Br, 1, COOMe, B(OH)2, K2CO3, Pd(OAc)2, DMF, H2O, PhCOOMe, NH2, O2N, PhCOOMe, 7
+
+Eq FW mmol gram d mL Reagent 1 295.92 0.338 0.100 - - 1 6 179.97 2.028 0.365 - - Boronic Acid 4 138.21 1.352 0.186 - - K2CO3 0.008 224.49 0.0027 0.0006 - - Pd(OAc)2 - - - - - 1.014 DMF - - - - - 1.183 H2O 1 406.39 0.338 0.137 - - 7
+
+- A clean Dry 50 mL Schlenk flask was fitted w/ a stir bar and evacuated/Refilled w/ N2 x3
+- Pd(OAc)2 was added to flask
+- 1 + Boronic Acid were placed in 1 3 mL vial (vial 1)
+- K2CO3 oven dried & placed in vial 2 (3 mL vial).
+- DMF placed in vial 1, H2O in vial 2. Both were sonicated to dissolution
+- Solutions were added to flask
+- System was freeze pump thawed then filled w/ N2, & freeze pump thawed again. (Total 4 vac.)
+- Yellow orange solution turned Green
+- Temp up to 75 °C after 72h
+- No Yield
+
+TLC
+T0, T1h, 19h, 46h, 72h, 96h, SM, Rxn, Product, SM, Rxn, SM, Rxn, 
+
+35% EtOAc
+
+Date: 2/8/16",0.8114169215086646,
+wesley_newsome_1_p0075,wesley_newsome_1,Wesley_Newsome_1.pdf,75,wesley_newsome_1_p0075.png,2362,3300,,,manual_transcription,0.9219790323738484,0.9951108176589564,0.8239111903848358,0.897378252635265,"paee A-he thy/| hen vIthe -drin ie _SnClh-2h0, HELEN yer Notebook No. Continued from Page a ie BE of Dnaok, Ho Bi 44 Bee “nl he no | +] TF . law (ae i ~ Haked 4 i. di H 10 ral ae ot altel a Pa “and “haste Vo b | othe ade, inte a. 3lU1 Wy Ww, 2,2SAL a of Eby 4 ded a ""2 la wl | p ailitg So fier | rove wh Bellyed of hs aaa Fheh eft 4o st ao rn wie than 7 ihe id Caylee ving dis dishilat ‘Oh et nor ee “if oh lo le ALY) ia las ae Miked gvelnched a ektyacted uf C — “ae fn tet 7 ash seit 20% jac | due (e7 0 Ae a a anole Th bat, + + —j +} __} __j —__+— | = Tp R Sgv St $F HX |__ |__| + 4 | et i | | ee oo ee Se | Reada DL SAUAZ nd Understood By Signed",48.58571428571429,"PROJECT: 2-methylphenylene-diamine
+
+NH2, NO2, 1, 1) SnCl2·2H2O, HCl, EtOH, 2) NaOH, H2O, NH2, NH2, 7
+
+Eq FW mmol gram d mL Reagent 1 152.15 0.657 0.100 - - 1 4 225.63 2.629 0.593 - - SnCl2·2H2O - - - - - 0.222 Con. HCl 0.493 - - - - - 1+1 mL EtOH 2+2.5 mL x2 2.25 mL - - - - - 0.296 mL NaOH/H2O (50% w/w) 0.657 mL - - - - - 1.5 mL H2O 4.5 mL 1 122.17 0.657 0.080 - - 7
+
+- SnCl2 was placed in a clean dry 10 mL RBF
+- HCl was added to the solution and heated to 120 °C w/ a condensor
+- 1 was made into a slurry w/ 2.25 mL of EtOH
+- slurry added slowly to Boiling solution
+- Solution Refluxed for 45 min then left to stir @ RT overnight
+- HCl and EtOH were then removed via distillation
+- Resedue was taken up in 2.25 mL of EtOH
+- 50% w/w NaOH was added to Flask and mixed for 15 min
+- Solution quenched w/ H2O and extracted w/ CHCl3
+- CHCl3 was dried over Na2SO4 and removed in vac.
+- Loss of some product due to bump during distillation.
+- Yield = 43.5 mg
+  → 54.4%
+- HNMR = Good a lil DCM present
+- Oil @ Room temp w/ a deep Red color
+
+TLC
+T0, SM, Rxn
+
+Date: 2/11/2016",0.7443820224719101,
+wesley_newsome_1_p0084,wesley_newsome_1,Wesley_Newsome_1.pdf,84,wesley_newsome_1_p0084.png,2246,3300,,,manual_transcription,0.9655761700948792,0.9948888983761548,0.815502502178484,0.9114092485845764,"he = pa inet — late ) feild Oo Bilas a Ebaag,, Dit fay aS te Etitac Rawwed In (i | | = | | | | | | | | a T = + + 1 1 _| | | T : | T r | | | | | | | —__ + 7 — . | i } |",70.06796116504854,"PROJECT: 2,5-Bis(p-phenylmethylester)-4-nitroaniline
+
+Br, NH2, O2N, Br, 1, B(OH)2, TEA, Pd(PPh3)4, Dioxane, PhCOOMe, NH2, O2N, PhCOOMe, 6
+
+Eq FW mmol gram d mL Reagent 1 295.92 0.338 0.100 - - 1 6 179.97 2.028 0.365 - - B(OH)2 5 101.19 1.690 0.171 0.725 0.236 TEA 0.05 1155.59 0.017 0.020 - - Pd(PPh3)4 - - - - - 2.18 Dioxane 1 406.39 0.338 0.137 - - 6
+
+- A clean Dry 15 mL 2NF was fitted w/ a stir bar & a vac. Adaptor + stopper
+- System evacuated & filled w/ N2 x3
+- Solids added to system followed by TEA & Dioxane
+- System freeze pump thawed x2
+- Solution Heated to 85 °C
+- Rxn quenched @ 70h w/ H2O & H2SO4 (3 M) to slight acidity
+- Extracted w/ EtOAc, Dried w/ Na2SO4, Ran through silica plug, & EtOAc Removed in vac.
+- No yield
+
+TLC
+T0, 3h, 46h, 70h, blue, SM, Rxn, SM, Rxn, SM, Rxn, SM, Rxn, 
+
+35% EtOAc
+
+Date: 2/27/16",0.8861985472154964,
+wesley_newsome_1_p0088,wesley_newsome_1,Wesley_Newsome_1.pdf,88,wesley_newsome_1_p0088.png,2362,3300,,,manual_transcription,0.491225526626953,0.9977015996295888,0.8503721219278515,0.7361793793478396,po pROoJ JECT WS J-092 Notebook No. 85 Continued from Page Br 35% éboAc ity Read and Understoo,86.66197183098592,"PROJECT: WJN-I-082
+
+Br, NH2, O2N, Br, 1, B(OH)2, CsF, Pd(PPh3)4, Dioxane/MeOH, PhCOOMe, NH2, O2N, PhCOOMe, 7
+
+Eq FW mmol gram d mL Reagent 1 295.92 1.690 0.500 - - 1 5 179.97 8.448 1.520 - - Boronic Acid 6 151.90 10.138 1.540 - - CsF - - - - - 5 Dioxane - - - - - 5 MeOH 0.05 1155.59 0.084 0.098 - - Pd(P(Ph)3)4 1 406.39 1.690 0.687 - - 7
+
+- CsF & a stir bar were placed in a clean dry 50 mL Schlenk flask
+- Under vac. the system was flam dried
+- Remaining solids were added & system was evacuated & refilled x3 w/ N2
+- Dioxane & MeOH were added
+- System was freeze pump thawed 1 time
+- solution heated to 85 °C
+- Rxn Quenched @ 25h mark w/ H2O
+- Extracted x4 w/ EtOAc, Organics washed w/ Brine, Dried over Na2SO4, Ran through Silica plug, & had solvent removed under vac.
+- Crude was recrystalized using EtOH (~60 mL)
+- Recrystal product washed w/ cold EtOH & cold Hexanes.
+- Yield = 429.5 mg
+  → 62.5% Yield
+- HNMR Great
+
+TLC
+T0, 3h, 25h, Blue, SM, Rxn, SM, +P, Rxn, SM, Rxn, 35% EtOAc
+
+Date: 3/14/2016",0.9372509960159362,
+wesley_newsome_1_p0097,wesley_newsome_1,Wesley_Newsome_1.pdf,97,wesley_newsome_1_p0097.png,2550,3249,,,manual_transcription,0.9620582763683868,0.9957636451544108,0.8372046282186747,0.9188578908657068,"Notebook No. | Conti ‘om Page PROJECT WINA- OLY Seal € ly TNe ¢) ain |_| eM esha oluté ae of ee BE Se ee , ake pie Je } eae 10 FANS i tg 5 ay, Wedel [ : NE, Pbduck “8 Oe, Ws ae 3 Ove le Sol an iit = Veeld i Gms ane 7 LEE eer _ 251, Fk Gene",64.8695652173913,"PROJECT: WJN-I-064 Scale Up
+
+PhCOOMe, NH2, O2N, PhCOOMe, 1, MeI, NaH, THF, PhCOOMe, N(CH3)2, O2N, PhCOOMe, 5
+
+Eq FW mmol gram d mL Reagent 1 406.39 2.077 0.8442 - - 1 3.5 24.00 7.271 0.174 0.6 0.291 NaH 5.1 141.94 10.594 1.504 2.28 0.660 MeI - - - - - 16 THF 1 434.44 2.077 0.902 - - 5
+
+- NaH was added to a clean Dry 25 mL RBF that was filled w/ N2 gas
+- The system was lowered into a dry ice/Acetone bath & 2 mL of THF were added
+- A solution of 1 & 12 mL of THF was prepared and slowly added to the RBF, the remaining 2 mL was used to wash out solution container into NaH solution
+- Solution mixed for 5 minutes then MeI was added dropwise to the alkyline solution (solution turns Red as reaction proceeds
+  Solution removed from bath after addition & mixed @ RT 24 h
+  Rxn quenched w/ H2O & Brine, (Product slightly H2O soluble)
+  Extracted w/ EtOAc & CHCl3 (≈ 250 mL total) due to low solubility, Dried over Na2SO4, solvent Removed under red. pressure.
+- Yield ↳ 864.8 mg
+  → 95.9%
+- HNMR ✓
+
+Collected some salt that crashed out during Rotovap and was filtered off.
+
+TLC
+4h, 24h, SM, Rxn, major agn., 35% EtOAc
+
+Date: 4/7/2016",0.8735632183908046,

@@ -1,11 +1,173 @@
 page_id,notebook_id,source_filename,source_page_number,image_filename,image_width,image_height,handwriting_category,content_notes,ground_truth_status,baseline_consistency,spatial_organization,text_fragmentation,combined_score,ocr_text,ocr_confidence,ground_truth_text,cer,error
-yuen_lau_notebook_1_p0001,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,1,yuen_lau_notebook_1_p0001.png,2211,3300,,,required,0.9164285289496192,0.8979135521885522,0.9406188641570118,0.9224016676803628,LABORATORY NOTEBOOK Company Name: Univesty 4 (ent Flom __ Department: __Chemppy Notebook No.: __ 4 Assigned to: SWepilhtis ss SS Date: _ 2(2i[2oy,60.4,,,
-yuen_lau_notebook_1_p0012,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,12,yuen_lau_notebook_1_p0012.png,2209,3300,,,required,0.9890701580055552,0.9974534154647764,0.8767141542682859,0.9458044080024918,". Ce ac eh chia aed ah ; RE aC ey tt ; eee pet Lt ees K Wa et etal SEEER-GERESEES ee | eet NTS TST pel eae TLL Hetaprenipmetone (may TTT TT TTP PTT ee PE TT ent trogen) metidend, (TH) pe RRRRRRERHRAARRERARAAE ST ey TT leds oes ata estat oat sR SRE teeee ca dont ceaifastisontoct TTL LTA | eof] | Talad 7 eS Ree Bee baa Ji Gee) PE Le) bob Ld tals) ia Dba Lae ASHI chal! + Dokawe, Trstead 4 iy 2 Smt ROE: Te Ha TTT US Tundael al Shea: Daidone! Algae) (1 | i} Tt fay | SRRRRRM he NN ase LL Ea shal",52.896907216494846,,,
-yuen_lau_notebook_1_p0023,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,23,yuen_lau_notebook_1_p0023.png,2550,3220,,,required,0.9286550128145046,0.9984986341918064,0.8710689941445029,0.9195893296219644,"coer eh aeeahs meet | 6.284 | 1.182 | 0. ae Notebook No, Continued from Page —— came | | KA BATE td aa Si cali a al ee A Pai fat (et tT | UI Cee Ea : | | a eal Coa ie S| a aa \4 Lata 8 nd : { : 4 = hk Te sons NS a ae = “a || Wert atten vlicu \S Be ag ial Calin Ee ae 3h A ae"" ER eee |_| __ {SSS SUS SRR eee ae eee 2 vU ® 2 = 5 Read and Understood By Signed",59.346666666666664,,,
-yuen_lau_notebook_1_p0035,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,35,yuen_lau_notebook_1_p0035.png,2550,3099,,,required,0.9459414948849152,0.9923599602399504,0.8643257283557289,0.9225788813442476,"j_ Nimple tt | Ae I-Ma a oat Nab | Yav-tiai NAL T=3Me_} YAL-£+23=} 0,042} Oh a Me a [12.7 Sonitate | Rea! Seconae to let the (Sole) Grauttate |7h5 | ip | Geto be |e | Pye Fue] | | [sale 3 Add 0S mo [meothpene! ant | OS ml oy | dioxane +o —— {| 1% Wats) Ha! 4 rae ie St tt Se ; aawalmiog | | oloi pl ae ee [| SLNoS Nat TT 34a) + ildad— bs} —clwied | Meaipyte Nene Ada Go eS eel ( preptaud_ ov 5. Hedh ttn He fuse CFF | asa 4h Dut He Spin unde. Vac. nth) £180 mtorr p | ||. | “fun bo. VG Cui “Values | oes ee |B. | Flame Sean! He! other Ena He | Huts ~ A. Rilous | Hee fue #0 codt ty 27 | | | Signed Read and Understood By Signed",60.640151515151516,,,
-yuen_lau_notebook_1_p0046,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,46,yuen_lau_notebook_1_p0046.png,2504,3300,,,required,0.943293729500702,0.9592688120184468,0.8447181025692466,0.9070584952316688,"BESRERBSREDROHEG GSMs. ie odoo BREE REERSLE ARRON AAs BC ERERREERMMELRREBSMRS sae BYERERRErHE ESOL ROY BERBERS EE See SRA AAS 45 Date Signed fae PROJECT neesnevemmat ss ee a Fe ef PeSMeG Shonen | | ter] en | leh BEB [S| 21 Ql S| | gh ST eae SERS e ea ou. SS RPS pe op eee ee S| ee he eee me (EGRRSERSOWEE CHOSE RESSeC ree Po pe ee ea a st SURSEEEer ety Seas c=? hs SSP we joe Tas Cre CT cee aalel ee eel lw PSE LeG SESSRe hha 2 | 18 RCT ea a ares 2 +e ise ST ig Ts SHG ge PR ae eee go: ar: | ‘ aes ate eH ii. | S CaS ie [ot Sree AE BRR CER Fe gt SROs dl ol Sigial | | ial tice | | Ad Rad A, (| egeiete LS cia Mi a il a | Signed",46.48557692307692,,,
-yuen_lau_notebook_1_p0057,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,57,yuen_lau_notebook_1_p0057.png,2550,3092,,,required,0.9688374824684096,0.988714323069206,0.8199646070518094,0.9132637004219288,"Notebook No. Continued from Page a meee Sale ee Eto eek sh asectpsaneneaenaee ——Wethed 2) Pout thot enable | me ty | Tel tek Lele leaden! | [| pride meme tl | 7 (See cranas i amie ela | (1, Wine! the. | ontvatalann |owal 1h OBE me 56 PROJECT Read and Understood By | Date SS Signed Date",75.41614906832298,,,
-yuen_lau_notebook_1_p0068,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,68,yuen_lau_notebook_1_p0068.png,2425,3300,,,required,0.9899734941081084,0.9917537371470032,0.8294193075410231,0.9261078680890532,"67 Continued from Page __—_ Notebook No. wear ¢; W/ HLL 25 (7) -Nth | 4 me — . nae TTLEL LL LISA eee eee CCCLCL_TLLI iss eee Pie LCL eS ss eee Re ee late SS ae ee eee SS GREESRe FIP ee seeeee se! Pek eA Ie m2 WIRE. si ued on Page BEE ce ae es Lees See ies Ss SS sr arse ae a #20 -H4- Yt : ; i = | 3 / |e f | te S st = Coe Se | Ses Sees a 7 Py 2S 820 | : lehct Lat eae > —_—_—"" ae: By Signed na nacatton.tne| We 4 pad Ys | lec AY) ~ lon 2 Ara Ty - z (7 ett agd all S S| me us iano _| 4 cr | SS - Pa) — We ps A eases SERGEESHREE EER SEEPS (et 1 4 SS eee ad See | eee ‘2 | Pe ae eee iS Ce eee $}—+— Pec “deed -€ wy * Ss s 4 UB Wad wll a ballon fil Li tet fn 7 ll ih i n Cin ur Shows. We \) 4 a‘ CAL = Mh 7 as iat - 5 io ie Ge aise = pr Grn | cy ld o >| zw 1 | tre Sdn 3 : lo Ld a sc Gael al GS GE GS eee ee | Bol re |G tt [Sa | F A Ei *] | =) aa a B SS 4 0d me if Signed",51.90571428571429,,,
-yuen_lau_notebook_1_p0080,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,80,yuen_lau_notebook_1_p0080.png,2550,3194,,,required,0.917707334910752,0.9798085243339392,0.889806520538625,0.9189672470465386,"hotv- Tpwleculaa cArabon eKxpajwead Ws) MLAZS(T)- NPA Cine Green _\a2« Notebook No. Continued from Page ~ wo neal merry isa vie ; Le ee a eel a (Re en es Vl Lc 1204 MA ee “file { | __} 4 ___}____ al ES Bar 4 Ls atte Pian so | | OH ee ie a i) Dane e AI 175 (Ti) | |_| mee fet _ d-meti Se SRL owe Oe onus aay 1 le ned fi On ts (¥al-rt (- ae lt Tapani (oars Neto long) Ateneo NETH pie | ceconginan. Cr eet hae Pam 50. we bormwet| ( re! gooet loa “| Arians | Retfreia$ stuctentJ at dred tlds bt old Lar olaabs 15-l poeh_| Se le ath lastnarl th nae [ chet bgdeal__lyan-tt-tbal = | LE i"" ele ge tthe 1S 4 Tote tm - PSeSeeNsiscene Smee at cee Ta et eagle TT we! Cz schoo [cla ues elk all a a) am sal iva [ol ste | ete OTP eto’ TTT 8 Jig. | bain pa are| bal oe | [ae metyrtes [Lt rea Ieoleabol- dled bale (eaoale | cbslccLels Plo] ) Sieaheaies | an dt tar Lcarte | tabetha TT Th ea tbat ten LT Pais eae Ta PEPER COC a ? rd he Sh oi 4 2 ad Lal a Ca lube lookeates| 43. boathaon file {st O2 | orguol | i Pek ltrtadiatiest eclaoe osl Ule] aetalagl al Ie Jal ted) eam | ee i a ee | ee CCCCECE pele hasake Gala i eT Cec ete: beet [baer Sth rarer | COCO ested ardiaator PE Tt ee “he Se ae",37.38819875776397,,,
-yuen_lau_notebook_1_p0091,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,91,yuen_lau_notebook_1_p0091.png,2323,3300,,,required,0.9659110686429568,0.9977830604019998,0.8804127836158184,0.93808615298391,"hastocattlyes CxpeiTment : [rinciccser P if ‘9 Notebook No. Continued from Page) aa mammmemecs ly | | Te Se Loc effete i | FP Gem —— skeet ee eee aa a PROJECT Wl Tee See i Lice EE~ BEoeenee Ll [Osa oe a Deeg MlokeloW tz [nom lolook 111 || | J pot bstahamb |) iam TT TT tank Tealeshy] ola | Iactpamrte [ dduchaide [Le Pees! olint Looe 1 ttt] ttheuden lel Youd | te fa MeO wiilig it lltt | iii See HEE “_ Dieses oe Read and Understood By J eS Date aie tigned, sa Date",57.74285714285714,,,
-yuen_lau_notebook_1_p0102,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,102,yuen_lau_notebook_1_p0102.png,2400,3300,,,required,0.962136550216437,0.9975877678828068,0.8778598984973958,0.9355161330620944,101 Notebook No. PROJECT Continued from Page i os oes d Pe i ; a} aL by a WLLL LLL eee CS 3S Teo eee a PG COE Cea ORCC ee PS e_ eeeeeeeeee CLCUOR_LCISLCLL TE eee eee CCLRC CECE eee ee eee CCC CPC eee CCAHTE Coe a Cig CIRC este eee ee as 2 Coser ee eS TT Pa Sl fet atest | ee Tiss (eae eee CSS Wo SSss7 eee eee SRS ChR: SSRs Pie ete eee CCS él eee eee Cas Sie ee eee Fert soap: sUGEEEEoeeee te sceeeeas=22 TC StSsss ie eee eee Se SCE | CCECEEEC ECCS,30.63716814159292,,,
+yuen_lau_notebook_1_p0010,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,10,yuen_lau_notebook_1_p0010.png,2253,3300,,,manual_transcription,0.9658128153156352,0.9988895934113762,0.8483942594645557,0.9254607485943516,mie ces cee CCE if TP oe a. “CLL. a as PEELE | af) —h a | 1 S82. ss. eI e3 CPL) Sige Ts. See ee Seek. igseae ee es aot asaw sess CS CPP Tesi tise | Sa sacar et Le a gstiuyaesa [ aes azte Ses e a oun “CELL. a tee ls SSGSRSSe5 05 Aa yw ll al a HE \iakeenceniiaay FEE,41.94505494505494,"Continued from Page 8
+
+(13) To the aq. phase (drain to another E.flask), add NaOH + saturated sodium bisulfite to kill the Br2
+(14) Put the org. layer back to the sep funnel, add some 1M NaOH then add saturated sodium bisulfite. (The soln turned cloudy)
+(15) Drain the org. phase (lighter orange)
+(16) Repeat solvent extraction 2x more w/ sodium bisulfite.
+(17) Do solvent extraction on the org. phase 3x w/ brine
+(18) Add MgSO4 to the org. layer, stir & wait for 5 min
+(19) Use a fritz filter, put ~0.5 cm of celite inside. and pour the org. layer to the filter.
+(20) Rotavap the solvent
+(21) Recrystallize using hot DCM & cool it w/ EtOH
+(22) Put it in the refrigerator overnight.
+
+Weight (after recrystallization): 0.1846 g",0.8057851239669421,
+yuen_lau_notebook_1_p0012,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,12,yuen_lau_notebook_1_p0012.png,2209,3300,,,manual_transcription,0.9890701580055552,0.9974534154647764,0.8767141542682859,0.9458044080024918,". Ce ac eh chia aed ah ; RE aC ey tt ; eee pet Lt ees K Wa et etal SEEER-GERESEES ee | eet NTS TST pel eae TLL Hetaprenipmetone (may TTT TT TTP PTT ee PE TT ent trogen) metidend, (TH) pe RRRRRRERHRAARRERARAAE ST ey TT leds oes ata estat oat sR SRE teeee ca dont ceaifastisontoct TTL LTA | eof] | Talad 7 eS Ree Bee baa Ji Gee) PE Le) bob Ld tals) ia Dba Lae ASHI chal! + Dokawe, Trstead 4 iy 2 Smt ROE: Te Ha TTT US Tundael al Shea: Daidone! Algae) (1 | i} Tt fay | SRRRRRM he NN ase LL Ea shal",52.896907216494846,"PROJECT: Scale-up production of tetrakis(4-bromophenyl)methane
+
+3/4/2014
+YAL-I-11
+
+* procedure is similar to one written on pg. 8-9
+
+Rxn:
+Br2, Br, Br, Br, Br
+
+Tetraphenylmethane (TPM)
+Tetrakis(4-bromophenyl)methane (TBPM)
+
+EQ FW mmol g d mL Reagent 1 320.00 0.4930 TPM 2 Bromine 1 632.00 0.98 TBPM
+
+Weight after recrystallization: 0.3640 g (37%)
+
+* Slight change of procedure. Instead of using a 25 mL RBF, in this experiment, I used a 50 mL Erlenmeyer flask.",0.9019607843137255,
+yuen_lau_notebook_1_p0023,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,23,yuen_lau_notebook_1_p0023.png,2550,3220,,,manual_transcription,0.9286550128145046,0.9984986341918064,0.8710689941445029,0.9195893296219644,"coer eh aeeahs meet | 6.284 | 1.182 | 0. ae Notebook No, Continued from Page —— came | | KA BATE td aa Si cali a al ee A Pai fat (et tT | UI Cee Ea : | | a eal Coa ie S| a aa \4 Lata 8 nd : { : 4 = hk Te sons NS a ae = “a || Wert atten vlicu \S Be ag ial Calin Ee ae 3h A ae"" ER eee |_| __ {SSS SUS SRR eee ae eee 2 vU ® 2 = 5 Read and Understood By Signed",59.346666666666664,"PROJECT: Scale-up synthesis of tetraboronic acid
+
+3/19/2014
+YAL-I-22
+
+* procedure followed the one written on pg. 12-13
+
+EQ FW mmol g d mL Reagents 1 636 0.786 0.500 TBPM 49.135 THF 6 64.06 4.717 0.302 1.887 n-Buli (2.5 m in hex) 8 188 6.289 1.182 0.81 1.456 B(o-i-Pr)3 1 480 0.786 0.377 TBA
+
+Actual wt of TBPM: 0.4996 g
+[used TBPM from samples: YAL-I-15 & YAL-I-17]
+
+Weight after vacuum-dried: 0.2389 g",0.8213399503722084,
+yuen_lau_notebook_1_p0026,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,26,yuen_lau_notebook_1_p0026.png,2460,3300,,,manual_transcription,0.7343446316410502,0.9984995280881456,0.8443169463209189,0.8311645368024168,"Notebook No. 25 ECT Halcing COF = (02 Contin ibd ee rom Page J pase He |tued doo chal Hol OT) | | | | tT tT | Tt BRRERRRSRARRE TEAS PRR RERP ERAS Ree micir| | | | | tT tt Tt Seale T dol | | TT Be clue | bel bate bok Lande oe tot fh | aR 2. SS0R8ho L\ Nip 20 || pale) | | a al er aeams foe Nat-tl2e Poh FCC yaa oda oT fin [ye eS Re RES PIeseVIeS Se (A) Wer ont! Some fefiahnenn, Gon (TBA), GM put shen | || ea ingen | ee eee Py} anita fr &_ feu) Seerve hy ket he SO grunt, ton Hct mM Ad | OSL 9 metbicn and Ont a Gad cows 4 ean CBCRP SBSEEED teers Read and Understood By -wWw.__ ee i ee ee ee ies” IS Signed Date Signed “Date",55.184331797235025,"PROJECT: Making COF-102
+
+3/27/2014
+YAL-I-25
+
+Part (I): Making sealed pyrex tube
+
+(1) Take a long glass tube, then use a glass ""ruler"" to determine the markings where the glass is going to get cut
+(2) Cut the glass into 2 pieces using a glass cutter & snap/pop them open
+(3) Use propane-flame to break open/seal one end of the tube
+← tip of the sealed tube
+* try to make sure the bottom is more or less rounded.
+(4) Let the tubes cool to RT.
+
+Part (II): Making COF.
+Start: 7pm
+
+Prepare 4 samples of COF-102
+
+COF-102 YAL-I-25a → from YAL-I-16 (TBA batch #) YAL-I-25b → from YAL-I-20 YAL-I-25c → from YAL-I-22 YAL-I-25d → from YAL-I-23 85°C 120°C
+
+(1) Weigh out ~50 mg of tetraboronic acid (TBA), and put them inside the tube.
+(2) Sonicate for a few seconds to let the solid gravitate toward the bottom
+(3) Add 0.5 mL of mesitylene and 0.5 mL of anhydrous dioxane to each tube.
+(4) Flash frozen the tube @ 77K, i.e. immerse the tube into liquid N2 for a minute or two.
+
+Continued on Page 26",0.7537993920972644,
+yuen_lau_notebook_1_p0045,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,45,yuen_lau_notebook_1_p0045.png,2537,3300,,,manual_transcription,0.8759515198798387,0.9939892089776636,0.817424841122117,0.8761483861963151,Notebook No.. ae PROJECT wi Sy e | Za mel lie ¥ 5 _—<-s r \) = S 4 I xT] ET | (ical ae) EE lel fs fel es] tf PAE Ala z a | ia (e) aH i er | ety BY f | Te el Sh | inl FSESI=3 beh =rii ee ai df Ee be gue ac LT Tid. Tp Ts fi ih Gtabeed | hued ole Le Shab ay Fe Read and Understood By Signed Date,47.857142857142854,"Continued from Page 43
+
+YAL-I-43
+
+6 tubes of NH2-MIL-125
+
+Actual mass of 2-aminoterephthalic acid Sample # PXRD Measurement time Observation 0.4004 g YAL-I-43A, YAL-I-43B ~18h in 150 °C diffraction pattern observed (Sample color: golden yellow) 0.4007 g YAL-I-43C, YAL-I-43D ~in 150 °C 0.4010 g YAL-I-43E, YAL-I-43F ~in 150 °C
+
+10. After 18h, Sample # YAL-I-43A was vacuum-filtered. (using anhydrous DMF to remove any unreacted ligands, and get all the solids out of the tube) in air.
+11. Then, the sample was rinsed a few times w/ chloroform. (because vacuum filtered product is still wet; DMF is hard to remove)
+12. The yield prior to solvent exchange, and after PXRD is 0.1319 g
+13. PXRD shows diffracted pattern, the first three major peaks are in alignment w/ literature values
+14. The sample is subjected to solvent exchange for at least 5 times (exchanging DMF w/ a more volatile solvent, chloroform) for an interval of 2-3 d.
+
+Continued on Page 45",0.8230366492146597,
+yuen_lau_notebook_1_p0049,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,49,yuen_lau_notebook_1_p0049.png,2550,3256,,,manual_transcription,0.9365637517139448,0.9982594056334756,0.8281684663368268,0.905544768347004,"Notebook No. Continued from Page a aeieieeeeie ies See (In! the next ah, adsnptive p vevnEE @ FH PROJECT mga 1.14 eee EEE ae | re Aad lag taser SIE | F Fe : Cee eEnEETn SUESERIEGE 9 | SSeare Sai lie Lich. pa iB a % 1 7 (aL { ‘ PTT TT TT TT Ree el TET Tohid themed & 4 SEE ge Tok JES EES Oe : DEE Read and Understood By ie hd AG 1a Continued on Page Ss — Date Signed Date",60.977777777777774,"(14) In the next tab, adsorptive properties
+     ↳ confirm that it is in N2 @ 77K
+(15) Finally, report condition
+     Check: Summary
+            BET
+            Isotherm
+            (optional) DFT pore size
+(16) Save → close
+(17) Click Unit 1, select sample in the new window and click start degas
+     Another window will open w/ a schematic of the degas.
+(18) After 2h, carefully unscrew + disassemble the setup
+(19) Weigh the tube (w/ cap) + sample again
+     Wt: 37.83240 g
+(20) Then fasten the tube next to the Po port the same way as described in step (5)
+
+1, 2, Po, tube
+
+(*) Before fastening, insert the white jacket to the bulbous tube
+
+Continued on Page 49",0.7837837837837838,
+yuen_lau_notebook_1_p0064,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,64,yuen_lau_notebook_1_p0064.png,2482,3300,,,manual_transcription,0.8931828540701094,0.9915876008570554,0.834615554937538,0.8894368837744702,"w—— Replat 4 tre Kimolkcumn pROJECT _ Photocatalsr CKPAIMOnk ML 12507; Notebook No. 63 Hy ) Continued from Page a fH az re ia a PAN He Bika 3 Ll \ | (5 S Pa = z [SE ad | lslol | : a aA = Oil (Ee ee — > | — ~ Sah) Ae APY _ _— (al 2 [ca ia Lal fe : ts [% ng : 9 | ¢ eo iz, ae ba re (al d = Jz| mea) £ 8. aed vl e Na | Pee | ee Ee | le = S| Fd Ge = hal lun fete ae lel | test telbegie [oP LTT ial a tier: | Ap) ( bIZaZouw) | Li Le 2a en POS PCCP a the SO Wan Capped) WI Septum cap, _f biaeenettatenoe poentin thet, 02 Wo eet Cl | ec io palates RUS | i Ee | Roauits. -Pratingngey NARs thatthe tre Jue 5 | pues | Howe es | We sas || Sane entra pealt> 1atren hac ah etn Beige ts Z|) Read and Understood By le ee ool ie : Pe, pe zie | a. t : 3 | re | tS Bal el Is = =P Ege) i | | le § > = p| | Re ~ Rel (5 Slt | [Sie Tt | Je Ea ae, | | gas ba 30 CCR BBLS ESTE | | Rp! te | Drv huct a ee ar Signed Date { fg) ee 4) 959) | |",53.74,"PROJECT: Repeat of the bimolecular photocatalysis experiment (MIL-125(Ti)-NH2)
+
+YAL-I-63
+6/23/2014
+
+1, HN, OH, O, O, BOC-NHOH, +, 5, α-methyl styrene, [O], hν, 10% MIL-125(Ti)-NH2, ?, HO-N, O, O
+
+EQ FW mmol g ρ mL Reagent 1 133.07 0.751 0.100 BOC-NHOH 5 118.18 3.757 0.444 0.91 0.488 α-methyl styrene 0.1 206.12 0.075 0.015 Ti-MOF conc (1M) 0.751 Acetonitrile (dried) 1 249.31 0.751 0.187 Theoretical yield
+
+Start time: 1pm (6/23/2014)
+Stop time: 1pm (6/24/2014)    ✓ NMR
+
+Prior to irradiation, the soln was capped w/ a septum cap, and bubbled in O2 for 30 min. The soln was connected to a balloon filled w/ O2 to ascertain that O2 was supplied to the rxn throughout.
+
+After irradiation,
+  Wt. of RBF: 18.3483 g
+  Wt. of RBF + product: 18.4520 g
+  (oil)
+  Δ = 0.1037 g
+
+Results: preliminary NMR results indicate that the rxn proceeds! However, we saw some extra peaks in there that suggests the excess O2 might have decomposed the product.
+→ shorter irradiation time? Could start w/ 6h. then monitor it every 6h afterward?",0.776908023483366,
+yuen_lau_notebook_1_p0070,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,70,yuen_lau_notebook_1_p0070.png,2385,3300,,,manual_transcription,0.9297057950814424,0.9852394016917636,0.8231081447209401,0.8981734562593058,"TTL ee helt CECE Lee See HOE SR CREe heehee seaeees rap ANC Ee ase es) eae ST EPR aly as sla is Sigler rE 4% SERSEGR Cer Peet Seeekecen Ss - iol | dal | ale Leary eer CRREERGT EEE sa Date ntinued on Page i — ate eS Cee Poe Ss Je is (Sy | als oe eae c _- Continued from Page _—__— SF Se See ba PEC gre FECA Ee Notebook No. wae y Signed Z HEE SESE BEC Se S2 | Meee ise Te CCMaN Sage lasts er | ae Oc bE = E ileal ala) oo |e FEE Res ee eee fof Tis ta 2"" ee ical 3 Ta Se ae | | 4 aia Ieee | eb Re Se EER BRK MERE Ga 1685 ee Bimoleculas Ploty Catan t+ WIPE (2S T-Sh) Signed",49.56060606060606,"PROJECT: Bimolecular photocatalysis exp't w/ MIL-125(Ti)-NH2 (15h)
+
+YAL-I-69
+6/26/2014
+
+HN, OH, O, O, HOHN-BOC, +, α-methyl styrene, [O] hν, 10% MIL-125(Ti)-NH2, MeCN, HO-N, O, O
+
+EQ FW mmol g ρ mL Reagents 1 133.07 0.376 0.050 BOC-NHOH 5 118.18 1.879 0.222 0.91 0.244 α-methylstyrene 0.1 206.12 0.038 0.008 MIL-125(Ti)-NH2 conc (1M) 0.376 Acetonitrile 1 249.31 0.376 0.094 Theoretical Yield
+
+Prior to irradiation, the soln was bubbled in O2 for 30 min, and was connected to a balloon filled w/ Oxygen during the irradiation.
+
+Start time: 12:00am (6/26/2014)
+Stop time: 3pm (6/26/2014)    ✓ took NMR",0.8580968280467446,
+yuen_lau_notebook_1_p0072,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,72,yuen_lau_notebook_1_p0072.png,2291,3300,,,manual_transcription,0.9674357367804938,0.8163124579124579,0.8648339957490035,0.8961703845942905,> -« TITUTL LLL GL eee ee PeCrece sie. ae Continued from Page __——— TLL gL Fria a a 4 pat eee $ ele aa alge | TT TT TT Tt fel siel $8 3 ‘ 38 atte (eles i eee ree ~~ a =r ; 4 S| Teel ol gl ee) ee eee : fii. we Tal ere Sia 5 P| | : FCCC 1s +1 Se ee 1% cl al Seeneeee. eee i £3 (| rig oh ie PC CECLC Ses. SRE. Pace 3 SLOP ie 24 Ce ag et 3 3 CCU ea s Hr Be HRS ie i) as at = Ss 2 /SSGEP. SERRE -oé Ce Sa: TCC xe 98 Ta Slee S13 CCS CCCCTE SLOSS Ceeceee. SCOCCPe Crees aes a SS | Serr eee here CCC elas ieee CEs TT ere Tae eS eee JCC Ts aa ls aes CeePe So a te £ peat Le ee 2 | eas ae aL Ee Se 0 a | eS LL ek ae AUS EE bs Za CG ee S(T Tala a a) ioe eae ee SVS CER lat iE i ad 2 Ban \ Lt | al +} | | [ SCLLiii PCCP ereCerrer re Signed Signed,46.890977443609025,"PROJECT: Ctrl exp't - bimolecular photocatalysis exp't
+
+YAL-I-71
+6/27/2014
+
+Aim: To determine if the starting materials are decomposing or form other side products during irradiation
+
+YAL-I-71A (BOC-NHOH)
+
+HN, OH, O, O, [O], hν, 10% MIL-125(Ti)-NH2, MeCN, ?
+
+- forgot to pull out the venting syringe. Soln dried out - need to repeat?
+
+0.047 g of BOC-NHOH was added in 0.376 mL of dried MeCN, w/ 0.008 g of MIL-125(Ti)-NH2 present (0.1 eq). The soln was bubbled for 20 min prior to irradiation, and was connected to a balloon filled w/ O2 throughout the irradiation.
+
+YAL-I-71B
+
+[O], hν, 10% MIL-125(Ti)-NH2, MeCN, ?
+
+0.244 mL of α-methylstyrene was added in 0.376 mL of dried MeCN, w/ 0.008 g of MIL-125(Ti)-NH2 present in soln. The soln was bubbled for 20 min prior to irradiation, and was connected to a balloon filled w/ O2 during irradiation.
+
+Continued on Page 72",0.8006912442396313,
+yuen_lau_notebook_1_p0094,yuen_lau_notebook_1,Yuen Lau notebook 1.pdf,94,yuen_lau_notebook_1_p0094.png,2495,3300,,,manual_transcription,0.9912104033843326,0.9991941226513624,0.8281723122719125,0.9275919107927706,Notebook No. ~_ Continued from Page PROJECT Fie eS BiG REBEL hee Slee 18s CCCs ls = LSS ase NET al agree aR ls lex Bom oma | HIS ap toe [al ae TL et oe AT Fre tail EREEFERRLERELERES Ls a ee eae & | | ttl | gy aS ee * SRRESPESL. Biss s if ae 5 ; ae 7,46.81012658227848,"Continued from Page 92
+
+YAL-I-92C
+
+3rd: EQ FW Mmol g ρ mL Reagents 1 147 0.102 ~0.015 HA 0.5 120.19 0.051 0.006 0.86 0.007 mesitylene (dried) filtered MOF from 2nd run MIL-125(Ti)-NH2 conc (0.15M) 0.68 dried MeCN
+
+Start time: 6:40 pm   7/14/2014
+End time: 7:10pm   7/15/2014",0.8321167883211679,

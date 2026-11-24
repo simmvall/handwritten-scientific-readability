@@ -3,7 +3,7 @@ PROJECT: Ctrl exp't - bimolecular photocatalysis exp't
 YAL-I-71
 6/27/2014
 
-Aim: To determine if the starting materials are ~~[illegible]~~ decomposing or form other side products during irradiation
+Aim: To determine if the starting materials are decomposing or form other side products during irradiation
 
 YAL-I-71A (BOC-NHOH)
 

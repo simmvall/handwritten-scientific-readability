@@ -5,7 +5,7 @@ Br, N, H, O, Br, 1, H2SO4, HNO3, Br, H, N, O, O2N, Br, 4
 Eq FW mmol gram d mL Reagent 1 292.96 13.952 4.0873 - 1 25 98.08 348.793 34.210 1.84 18.59 H2SO4 9.6 63.01 133.937 8.439 1.5129 5.578 HNO3 1 337.95 13.952 4.715 - - 4
 
 - 1:3 ICE to Salt, wn, was preped for a bath
-- A ~~100 mL~~ 250 mL RBF was placed in the salt/ice bath
+- A 100 mL 250 mL RBF was placed in the salt/ice bath
 - 1 was added to RBF followed by H2SO4
 - HNO3 was added slowley over 15 min
 - The solution was kept under -15 °C during rxn

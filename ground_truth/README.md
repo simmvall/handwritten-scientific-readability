@@ -22,8 +22,10 @@ not the handwritten page numbers in the notebook.
   table layout; the per-page files contain the same cells in this flattened
   form. The submitted originals are kept unchanged in
   `submitted_transcriptions/`.
-- Crossed-out text is marked `~~like this~~` and uncertain readings
-  `[?like this?]`. These markers are currently left in the files. A rule for
-  handling them before CER is calculated has not yet been applied.
+- The submitted originals mark crossed-out text `~~like this~~` and uncertain
+  readings `[?like this?]`. In the per-page files these markers are removed
+  and the text inside them is kept, because crossed-out and uncertain text is
+  still ink on the page that OCR reads. The one `~~[illegible]~~` (Yuen p72)
+  is removed entirely, since that text is not on the page.
 - Each per-page file was checked against the rendered PDF page to confirm the
   page number.

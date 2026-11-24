@@ -4,7 +4,7 @@ See: Tsutsui, Shimoe, Bull. et al. Chem. Soc. Jpn. 75, 2002 (Preparation of 2-Di
 
 Br, OH, HO, Br, 1, 1) TMSCl in Et3N & Et2O, 2) HCl 1M, Br, O, Si, O, Si, Br, 2
 
-Eq FW mass mmol d mL Reagent 1 267.9 0.050 0.1866 - - 1 2.6 101.19 0.049 0.485 0.7255 0.067 Et3N 3 108.64 0.061 0.560 0.856 0.071 TMSCl - 74.12 - - - ~~5.0~~ 6.0 mL [?6-3?] Et2O - 36.46 - - - 7.0 1M HCl - 412.27 0.077 0.1866 - - 2
+Eq FW mass mmol d mL Reagent 1 267.9 0.050 0.1866 - - 1 2.6 101.19 0.049 0.485 0.7255 0.067 Et3N 3 108.64 0.061 0.560 0.856 0.071 TMSCl - 74.12 - - - 5.0 6.0 mL 6-3 Et2O - 36.46 - - - 7.0 1M HCl - 412.27 0.077 0.1866 - - 2
 
 - Dry Schlenk Flask was purged 3 time w/ Ar
 - Collected 10 mL of Dry Et2O
