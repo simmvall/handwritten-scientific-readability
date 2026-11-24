@@ -1,0 +1,15 @@
+PROJECT: WJN-I-039 follow up
+
+Br, H2N, Br, 1, K2CO3, CH2Cl2, MeOH, Br, NH2, H2N, Br, 5
+
+Eq FW mmol gram d mL Reagent 1 307.97 0.812 0.250 - - 1 3 138.21 2.435 0.337 - - K2CO3 - - - - - 4 CH2Cl2 - - - - - 4 MeOH 1 265.93 0.812 0.215 - - 5
+
+- See WJN-I-029 for procedure
+- Quench 25 mL H2O & extract DCM @ 26h
+
+TLC
+T0, 2h, SM, Rxn, 
+
+25% EtOAc
+
+Date: 11/2/2015

@@ -1,0 +1,13 @@
+PROJECT: Bimolecular photocatalysis exp't w/ MIL-125(Ti)-NH2 (15h)
+
+YAL-I-69
+6/26/2014
+
+HN, OH, O, O, HOHN-BOC, +, α-methyl styrene, [O] hν, 10% MIL-125(Ti)-NH2, MeCN, HO-N, O, O
+
+EQ FW mmol g ρ mL Reagents 1 133.07 0.376 0.050 BOC-NHOH 5 118.18 1.879 0.222 0.91 0.244 α-methylstyrene 0.1 206.12 0.038 0.008 MIL-125(Ti)-NH2 conc (1M) 0.376 Acetonitrile 1 249.31 0.376 0.094 Theoretical Yield
+
+Prior to irradiation, the soln was bubbled in O2 for 30 min, and was connected to a balloon filled w/ Oxygen during the irradiation.
+
+Start time: 12:00am (6/26/2014)
+Stop time: 3pm (6/26/2014)    ✓ took NMR

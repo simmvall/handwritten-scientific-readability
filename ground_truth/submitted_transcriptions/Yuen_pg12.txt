@@ -1,0 +1,18 @@
+PROJECT: Scale-up production of tetrakis(4-bromophenyl)methane
+
+3/4/2014
+YAL-I-11
+
+* procedure is similar to one written on pg. 8-9
+
+Rxn:
+Br2, Br, Br, Br, Br
+
+Tetraphenylmethane (TPM)
+Tetrakis(4-bromophenyl)methane (TBPM)
+
+EQ FW mmol g d mL Reagent 1 320.00 0.4930 TPM 2 Bromine 1 632.00 0.98 TBPM
+
+Weight after recrystallization: 0.3640 g (37%)
+
+* Slight change of procedure. Instead of using a 25 mL RBF, in this experiment, I used a 50 mL Erlenmeyer flask.

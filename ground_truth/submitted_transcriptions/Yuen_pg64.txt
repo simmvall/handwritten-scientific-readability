@@ -1,0 +1,22 @@
+PROJECT: Repeat of the bimolecular photocatalysis experiment (MIL-125(Ti)-NH2)
+
+YAL-I-63
+6/23/2014
+
+1, HN, OH, O, O, BOC-NHOH, +, 5, α-methyl styrene, [O], hν, 10% MIL-125(Ti)-NH2, ?, HO-N, O, O
+
+EQ FW mmol g ρ mL Reagent 1 133.07 0.751 0.100 BOC-NHOH 5 118.18 3.757 0.444 0.91 0.488 α-methyl styrene 0.1 206.12 0.075 0.015 Ti-MOF conc (1M) 0.751 Acetonitrile (dried) 1 249.31 0.751 0.187 Theoretical yield
+
+Start time: 1pm (6/23/2014)
+Stop time: 1pm (6/24/2014)    ✓ NMR
+
+Prior to irradiation, the soln was capped w/ a septum cap, and bubbled in O2 for 30 min. The soln was connected to a balloon filled w/ O2 to ascertain that O2 was supplied to the rxn throughout.
+
+After irradiation,
+  Wt. of RBF: 18.3483 g
+  Wt. of RBF + product: 18.4520 g
+  (oil)
+  Δ = 0.1037 g
+
+Results: preliminary NMR results indicate that the rxn proceeds! However, we saw some extra peaks in there that suggests the excess O2 might have decomposed the product.
+→ shorter irradiation time? Could start w/ 6h. then monitor it every 6h afterward?

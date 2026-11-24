@@ -1,0 +1,27 @@
+PROJECT: Making COF-102
+
+3/27/2014
+YAL-I-25
+
+Part (I): Making sealed pyrex tube
+
+(1) Take a long glass tube, then use a glass "ruler" to determine the markings where the glass is going to get cut
+(2) Cut the glass into 2 pieces using a glass cutter & snap/pop them open
+(3) Use propane-flame to break open/seal one end of the tube
+← tip of the sealed tube
+* try to make sure the bottom is more or less rounded.
+(4) Let the tubes cool to RT.
+
+Part (II): Making COF.
+Start: 7pm
+
+Prepare 4 samples of COF-102
+
+COF-102 YAL-I-25a → from YAL-I-16 (TBA batch #) YAL-I-25b → from YAL-I-20 YAL-I-25c → from YAL-I-22 YAL-I-25d → from YAL-I-23 85°C 120°C
+
+(1) Weigh out ~50 mg of tetraboronic acid (TBA), and put them inside the tube.
+(2) Sonicate for a few seconds to let the solid gravitate toward the bottom
+(3) Add 0.5 mL of mesitylene and 0.5 mL of anhydrous dioxane to each tube.
+(4) Flash frozen the tube @ 77K, i.e. immerse the tube into liquid N2 for a minute or two.
+
+Continued on Page 26

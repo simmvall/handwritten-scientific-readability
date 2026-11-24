@@ -1,0 +1,22 @@
+PROJECT: WJN-I-039 follow up
+
+Br, H2N, Br, 1, K2CO3, CH2Cl2, MeOH, Br, NH2, H2N, Br, 5
+
+<table>
+  <row><cell>Eq</cell><cell>FW</cell><cell>mmol</cell><cell>gram</cell><cell>d</cell><cell>mL</cell><cell>Reagent</cell></row>
+  <row><cell>1</cell><cell>307.97</cell><cell>0.812</cell><cell>0.250</cell><cell>-</cell><cell>-</cell><cell>1</cell></row>
+  <row><cell>3</cell><cell>138.21</cell><cell>2.435</cell><cell>0.337</cell><cell>-</cell><cell>-</cell><cell>K2CO3</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>4</cell><cell>CH2Cl2</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>4</cell><cell>MeOH</cell></row>
+  <row><cell>1</cell><cell>265.93</cell><cell>0.812</cell><cell>0.215</cell><cell>-</cell><cell>-</cell><cell>5</cell></row>
+</table>
+
+- See WJN-I-029 for procedure
+- Quench 25 mL H2O & extract DCM @ 26h
+
+TLC
+T0, 2h, SM, Rxn, 
+
+25% EtOAc
+
+Date: 11/2/2015

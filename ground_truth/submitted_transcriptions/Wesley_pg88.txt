@@ -1,0 +1,33 @@
+PROJECT: WJN-I-082
+
+Br, NH2, O2N, Br, 1, B(OH)2, CsF, Pd(PPh3)4, Dioxane/MeOH, PhCOOMe, NH2, O2N, PhCOOMe, 7
+
+<table>
+  <row><cell>Eq</cell><cell>FW</cell><cell>mmol</cell><cell>gram</cell><cell>d</cell><cell>mL</cell><cell>Reagent</cell></row>
+  <row><cell>1</cell><cell>295.92</cell><cell>1.690</cell><cell>0.500</cell><cell>-</cell><cell>-</cell><cell>1</cell></row>
+  <row><cell>5</cell><cell>179.97</cell><cell>8.448</cell><cell>1.520</cell><cell>-</cell><cell>-</cell><cell>Boronic Acid</cell></row>
+  <row><cell>6</cell><cell>151.90</cell><cell>10.138</cell><cell>1.540</cell><cell>-</cell><cell>-</cell><cell>CsF</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>5</cell><cell>Dioxane</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>5</cell><cell>MeOH</cell></row>
+  <row><cell>0.05</cell><cell>1155.59</cell><cell>0.084</cell><cell>0.098</cell><cell>-</cell><cell>-</cell><cell>Pd(P(Ph)3)4</cell></row>
+  <row><cell>1</cell><cell>406.39</cell><cell>1.690</cell><cell>0.687</cell><cell>-</cell><cell>-</cell><cell>7</cell></row>
+</table>
+
+- CsF & a stir bar were placed in a clean dry 50 mL Schlenk flask
+- Under vac. the system was flam dried
+- Remaining solids were added & system was evacuated & refilled x3 w/ N2
+- Dioxane & MeOH were added
+- System was freeze pump thawed 1 time
+- solution heated to 85 °C
+- Rxn Quenched @ 25h mark w/ H2O
+- Extracted x4 w/ EtOAc, Organics washed w/ Brine, Dried over Na2SO4, Ran through Silica plug, & had solvent removed under vac.
+- Crude was recrystalized using EtOH (~60 mL)
+- Recrystal product washed w/ cold EtOH & cold Hexanes.
+- Yield = 429.5 mg
+  → 62.5% Yield
+- HNMR Great
+
+TLC
+T0, 3h, 25h, Blue, SM, Rxn, SM, +P, Rxn, SM, Rxn, 35% EtOAc
+
+Date: 3/14/2016

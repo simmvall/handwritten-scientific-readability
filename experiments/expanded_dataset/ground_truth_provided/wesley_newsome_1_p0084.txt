@@ -1,0 +1,21 @@
+PROJECT: 2,5-Bis(p-phenylmethylester)-4-nitroaniline
+
+Br, NH2, O2N, Br, 1, B(OH)2, TEA, Pd(PPh3)4, Dioxane, PhCOOMe, NH2, O2N, PhCOOMe, 6
+
+Eq FW mmol gram d mL Reagent 1 295.92 0.338 0.100 - - 1 6 179.97 2.028 0.365 - - B(OH)2 5 101.19 1.690 0.171 0.725 0.236 TEA 0.05 1155.59 0.017 0.020 - - Pd(PPh3)4 - - - - - 2.18 Dioxane 1 406.39 0.338 0.137 - - 6
+
+- A clean Dry 15 mL 2NF was fitted w/ a stir bar & a vac. Adaptor + stopper
+- System evacuated & filled w/ N2 x3
+- Solids added to system followed by TEA & Dioxane
+- System freeze pump thawed x2
+- Solution Heated to 85 °C
+- Rxn quenched @ 70h w/ H2O & H2SO4 (3 M) to slight acidity
+- Extracted w/ EtOAc, Dried w/ Na2SO4, Ran through silica plug, & EtOAc Removed in vac.
+- No yield
+
+TLC
+T0, 3h, 46h, 70h, blue, SM, Rxn, SM, Rxn, SM, Rxn, SM, Rxn, 
+
+35% EtOAc
+
+Date: 2/27/16

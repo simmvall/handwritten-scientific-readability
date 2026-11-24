@@ -1,0 +1,22 @@
+PROJECT: Ctrl exp't - bimolecular photocatalysis exp't
+
+YAL-I-71
+6/27/2014
+
+Aim: To determine if the starting materials are ~~[illegible]~~ decomposing or form other side products during irradiation
+
+YAL-I-71A (BOC-NHOH)
+
+HN, OH, O, O, [O], hν, 10% MIL-125(Ti)-NH2, MeCN, ?
+
+- forgot to pull out the venting syringe. Soln dried out - need to repeat?
+
+0.047 g of BOC-NHOH was added in 0.376 mL of dried MeCN, w/ 0.008 g of MIL-125(Ti)-NH2 present (0.1 eq). The soln was bubbled for 20 min prior to irradiation, and was connected to a balloon filled w/ O2 throughout the irradiation.
+
+YAL-I-71B
+
+[O], hν, 10% MIL-125(Ti)-NH2, MeCN, ?
+
+0.244 mL of α-methylstyrene was added in 0.376 mL of dried MeCN, w/ 0.008 g of MIL-125(Ti)-NH2 present in soln. The soln was bubbled for 20 min prior to irradiation, and was connected to a balloon filled w/ O2 during irradiation.
+
+Continued on Page 72

@@ -1,0 +1,29 @@
+PROJECT: WJN-I-033
+
+Br, NH2, O2N, Br, 1, NaH, MeI, THF, Br, N(Me)2, O2N, Br, 5
+
+Eq FW mmol gram d mL Reagent 1 295.92 30.59 9.0539 - - 1 3.5 24.00 107.1 2.570 [?.608?] 4.283 NaH 5.1 141.94 156.0 22.14 2.28 9.71 MeI - - - - - 52+17 THF 1 323.97 30.59 9.910 - - 5
+
+- Ice bath was set up
+- NaH was added to a Clean Dry 250 mL Schlenk flask w/ a stir bar and 15 mL of THF. (Under N2 gas)
+- 1 was mixed w/ 37 mL of THF (anhydrous)
+- Temperature was kept ≈ 0 °C for reaction vessel
+- 1 in THF was added dropwise to NaH/THF solution in ICE bath (Deep Red)
+- Upon completion solution was mixed for 5 min in ICE
+- 17 mL of THF & 9.71 mL of MeI were mixed and slowly added to the reaction vessel.
+- Reaction mixed under N2 in Ice bath w/o refilling Ice
+- Rxn Quenched 22h w/ 50 mL Brine 50 mL H2O
+- Extracted w/ EtOAc
+- Ran a 30 g wide column 2% EtOAc & separated Top 2 dots from rest
+- NMR showed column was 74% Product & 26% -Br, try 2% THF column
+- Sublimation test 40 °C High Vac. → 42 mTorr for 30 min led to → Pure product unsublimed & mixture of both as sublimed, 42% P & 58% -Br in sublimed product, try ~~lower~~ w/ High P & 45 °C
+- Recrystal EtOH → 89% Pure Product by mass
+  3.8984
+  ↳ 39.3% Yield
+
+TLC
+T0, 22h, Post workup, SM+P, -Br, Rxn, Di-Br, Di, Mono, 
+
+15% EtOAc
+
+Date: 11/19/2015

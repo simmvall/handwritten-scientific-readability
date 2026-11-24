@@ -1,0 +1,27 @@
+PROJECT: WJN-I-017 Scale Up
+
+Br, N, O, O2N, Br, 1, K2CO3, CH2Cl2, MeOH, Br, H2N, Br, 5
+
+<table>
+  <row><cell>Eq</cell><cell>FW</cell><cell>mmol</cell><cell>gram</cell><cell>d</cell><cell>mL</cell><cell>Reagent</cell></row>
+  <row><cell>1</cell><cell>337.95</cell><cell>6.283</cell><cell>2.1235</cell><cell>-</cell><cell>-</cell><cell>1</cell></row>
+  <row><cell>3</cell><cell>138.21</cell><cell>18.850</cell><cell>2.605</cell><cell>-</cell><cell>-</cell><cell>K2CO3</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>35</cell><cell>CH2Cl2</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>35</cell><cell>MeOH</cell></row>
+  <row><cell>1</cell><cell>295.92</cell><cell>6.283</cell><cell>1.859</cell><cell>-</cell><cell>-</cell><cell>5</cell></row>
+</table>
+
+- 1 was added to a clean 250 mL RBF
+- DCM was added to dissolve the starting material
+- MeOH was then added, followed by K2CO3
+- The solution was stirred at room temp.
+- After 3h reaction mixture was taken up in H2O
+- Extracted with DCM x3 (15 mL)
+- DCM was dried with Na2SO4 and rotovaped
+- Yield = 84.9% → 1.5782 g
+- HNMR ✓
+
+TLC
+T0, 1h, 2h, 3h, SM, Rxn, SM, Rxn, SM, Rxn, SM, Rxn, 25% EtOAc
+
+Date: 7/7/15

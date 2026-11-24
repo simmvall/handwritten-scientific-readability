@@ -1,0 +1,35 @@
+PROJECT: 2-methylphenylene-diamine
+
+NH2, NO2, 1, 1) SnCl2·2H2O, HCl, EtOH, 2) NaOH, H2O, NH2, NH2, 7
+
+<table>
+  <row><cell>Eq</cell><cell>FW</cell><cell>mmol</cell><cell>gram</cell><cell>d</cell><cell>mL</cell><cell>Reagent</cell></row>
+  <row><cell>1</cell><cell>152.15</cell><cell>0.657</cell><cell>0.100</cell><cell>-</cell><cell>-</cell><cell>1</cell></row>
+  <row><cell>4</cell><cell>225.63</cell><cell>2.629</cell><cell>0.593</cell><cell>-</cell><cell>-</cell><cell>SnCl2·2H2O</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>[?0.222?]</cell><cell>Con. HCl 0.493</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>~~1+1 mL~~</cell><cell>EtOH 2+2.5 mL x2 2.25 mL</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>~~0.296 mL~~</cell><cell>NaOH/H2O (50% w/w) 0.657 mL</cell></row>
+  <row><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>~~1.5 mL~~</cell><cell>H2O 4.5 mL</cell></row>
+  <row><cell>1</cell><cell>122.17</cell><cell>0.657</cell><cell>0.080</cell><cell>-</cell><cell>-</cell><cell>7</cell></row>
+</table>
+
+- SnCl2 was placed in a clean dry 10 mL RBF
+- HCl was added to the solution and heated to 120 °C w/ a condensor
+- 1 was made into a slurry w/ 2.25 mL of EtOH
+- slurry added slowly to Boiling solution
+- Solution Refluxed for 45 min then left to stir @ RT overnight
+- HCl and EtOH were then removed via distillation
+- Resedue was taken up in 2.25 mL of EtOH
+- 50% w/w NaOH was added to Flask and mixed for 15 min
+- Solution quenched w/ H2O and extracted w/ CHCl3
+- CHCl3 was dried over Na2SO4 and removed in vac.
+- Loss of some product due to bump during distillation.
+- Yield = 43.5 mg
+  → 54.4%
+- HNMR = Good a lil DCM present
+- Oil @ Room temp w/ a deep Red color
+
+TLC
+T0, SM, Rxn
+
+Date: 2/11/2016
